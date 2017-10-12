@@ -5,6 +5,7 @@ This is a list of available fantasy computer/console. Including softwares which 
 Computer | Developer | Language | Price (USD) | Open source | Platform
 ---- | ---- | ---- | ---- | ---- | ----
 [LIKO-12](https://ramilego4game.itch.io/liko12) | RamiLego4Game | Lua | NYOP | [Yes](https://github.com/RamiLego4Game/LIKO-12) | Windows, macOS, Linux, Android
+[LowRes Coder](http://lowres.inutilis.com) | Timo Kloss | BASIC | $4.99 (F2P) | No | iOS
 [NEKO8](https://egordorichev.itch.io/neko8) | Egor Dorichev | Lua, BASIC, ASM, MoonSciprt | NYOP | [Yes](https://github.com/egordorichev/neko8) | Windows, macOS, Linux, Android
 [PICO-8](https://www.lexaloffle.com/pico-8.php) | Lexaloffle | Lua | $14.99 | No | Windows, macOS, Linux, Raspbery Pi
 [Pixel Vision 8](https://pixelvision8.itch.io/game-creator) | Pixel Vision 8 | Lua | $14.99 | No | Windows, macOS, Linux
