@@ -15,7 +15,7 @@ Computer | Developer | Language | Price (USD) | Open source | Platform | Screen 
 [Riko4](https://github.com/incinirate/riko4) | Bryan | Lua | Free | [Yes](https://github.com/incinirate/riko4) | Making | 1056x594?
 [SmileBASIC](http://smilebasic.com) | SmileBoom | BASIC | $9.99 | No | 3DS | 400x240/320x240
 [Tako 80](http://tako80.net) | pistacchio | JavaScript | Free | [Yes](https://github.com/pistacchio/tako80) | Browser | 160x144
-[TIC-80](https://tic.computer) | Vadim Grigoruk | Lua | Free | [Yes](https://github.com/nesbox/TIC-80) | Windows, macOS, Linux, Android | 240x136
+[TIC-80](https://tic.computer) | Vadim Grigoruk | Lua, MoonSciprt, JavaScript | Free | [Yes](https://github.com/nesbox/TIC-80) | Windows, macOS, Linux, Android | 240x136
 [VectorBoy](https://melloland.itch.io/vectorboy) | David Jalbert | Lua | NYOP | Yes | Windows | vector
 [Zenith80](https://zenith80.github.io) | Noam Preil | Z80 ASM, C | Free | [Yes](https://bitbucket.org/pixelherodev/zenith80) | Windows, Linux | ?
 
