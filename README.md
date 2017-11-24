@@ -5,7 +5,7 @@ This is a list of available fantasy computer/console. Including softwares which 
 Computer | Developer | Language | Price (USD) | Open source | Platform | Screen size
 ---- | ---- | ---- | ---- | ---- | ---- | ----
 [CToy](https://github.com/anael-seghezzi/CToy) | Anaël Seghezzi | C | Free | [Yes](https://github.com/anael-seghezzi/CToy) | Windows, macOS, Linux | 128×128
-[Drak-0](https://github.com/drako0812/DRAK-0) | Drew Wibbenmeyer | ChaiScript | NYOP | [Yes](https://github.com/drako0812/DRAK-0) | Making | 320x240
+[DRAK-0](https://github.com/drako0812/DRAK-0) | Drew Wibbenmeyer | ChaiScript, LuaJIT (coming soon) | NYOP | [Yes](https://github.com/drako0812/DRAK-0) | Making, Windows | 320x240
 [LIKO-12](https://ramilego4game.itch.io/liko12) | RamiLego4Game | Lua | NYOP | [Yes](https://github.com/RamiLego4Game/LIKO-12) | Windows, macOS, Linux, Android | 192x128
 [LowRes Coder](http://lowres.inutilis.com) | Timo Kloss | BASIC | $4.99 (F2P) | No | iOS | up to 128×128
 [NEKO8](https://egordorichev.itch.io/neko8) | Egor Dorichev | Lua, BASIC, ASM, MoonSciprt | NYOP | [Yes](https://github.com/egordorichev/neko8) | Windows, macOS, Linux, Android | 192x128
