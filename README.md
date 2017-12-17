@@ -1,6 +1,6 @@
-## FANTASY COMPUTERS
+## FANTASY CONSOLES/COMPUTERS
 
-This is a list of available fantasy computer/console. Including softwares which simulate virtual or actual hardwares, with limited functionality. And always encourage creating and sharing tiny retro games and programs with built-in languages and tools.
+This is a list of available fantasy console/computer. Including softwares which simulate virtual, with limited functionality. And always encourage creating and sharing tiny retro games and programs with built-in languages and tools.
 
 Computer | Developer | Language | Price (USD) | Open source | Platform | Screen size
 ---- | ---- | ---- | ---- | ---- | ---- | ----
@@ -19,12 +19,17 @@ Computer | Developer | Language | Price (USD) | Open source | Platform | Screen 
 [VectorBoy](https://melloland.itch.io/vectorboy) | David Jalbert | Lua | NYOP | Yes | Windows | vector
 [Zenith80](https://zenith80.github.io) | Noam Preil | Z80 ASM, C | Free | [Yes](https://bitbucket.org/pixelherodev/zenith80) | Windows, Linux | ?
 
-**Order by**: alphabet.
+* Order by: alphabet.
+* Language: it means built-in language for end users, not implementing language.
+* NYOP: Name Your Own Price.
+* Making: the only way to get an executable is to build from source code.
 
-**Language**: it means built-in language for end users, not implementing language.
+People find it difficult to search this kind of software to play with, so it is relaxed for choosing available consoles. However, it's fairly simple to tell if one is **not** a fantasy console/computer:
 
-**NYOP**: Name Your Own Price.
-
-**Making**: the only way to get an executable is to build from source code.
+1. Hardware such as RaspberryPi and Gamebuino are not
+2. Emulators (eg. NES, C64, DOSBox) are not
+3. Generic graphics libraries and game engines are not
+4. Programming IDEs are not
+5. Minecraft is not
 
 As things evolving, feel free to update this list, or correct any mistakes, pull requests are welcome.
