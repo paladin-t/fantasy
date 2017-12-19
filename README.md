@@ -15,7 +15,7 @@ FC | Language | Price & License | Platform | Display
 [Riko4](https://github.com/incinirate/riko4) by Bryan | Lua | Free, [MIT](https://github.com/incinirate/riko4) | Windows | 1056x594?
 [SmileBASIC](http://smilebasic.com) by SmileBoom | BASIC | $9.99 | 3DS | 400x240/320x240
 [Tako 80](http://tako80.net) by pistacchio | JavaScript | Free, [MIT](https://github.com/pistacchio/tako80) | Browser | 160x144
-[TIC-80](https://tic.computer) by Vadim Grigoruk | Lua, MoonSciprt, JavaScript | Free, [MIT](https://github.com/nesbox/TIC-80) | Windows, macOS, Linux, Android | 240x136
+[TIC-80](https://tic.computer) by Vadim Grigoruk | Lua, MoonSciprt, JavaScript | Free/$5(Pro), [MIT](https://github.com/nesbox/TIC-80) | Windows, macOS, Linux, Android | 240x136
 [VectorBoy](https://melloland.itch.io/vectorboy) by David Jalbert | Lua | [NYOP](https://melloland.itch.io/vectorboy) | Windows | vector
 [VVpet](https://github.com/gardrek/VVpet) by Gardrek | Lua | Free, [?](https://github.com/gardrek/VVpet) | Löve | 64x64x2/128x128x4/configurable
 [Zenith80](https://zenith80.github.io) by Noam Preil | Z80 ASM, C | Free, [Apache](https://bitbucket.org/pixelherodev/zenith80) | Windows, Linux | ?
