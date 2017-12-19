@@ -17,6 +17,7 @@ Computer | Developer | Language | Price (USD) | Open source | Platform | Screen 
 [Tako 80](http://tako80.net) | pistacchio | JavaScript | Free | [Yes](https://github.com/pistacchio/tako80) | Browser | 160x144
 [TIC-80](https://tic.computer) | Vadim Grigoruk | Lua, MoonSciprt, JavaScript | Free | [Yes](https://github.com/nesbox/TIC-80) | Windows, macOS, Linux, Android | 240x136
 [VectorBoy](https://melloland.itch.io/vectorboy) | David Jalbert | Lua | NYOP | Yes | Windows | vector
+[VVpet](https://github.com/gardrek/VVpet) | Gardrek | Lua | Free | [Yes](https://github.com/gardrek/VVpet) | Löve | 64x64, configurable
 [Zenith80](https://zenith80.github.io) | Noam Preil | Z80 ASM, C | Free | [Yes](https://bitbucket.org/pixelherodev/zenith80) | Windows, Linux | ?
 
 * Order by: alphabet.
