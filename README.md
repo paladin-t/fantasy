@@ -19,7 +19,7 @@ FC | Language | Price & License | Platform | Display
 [TIC-80](https://tic.computer) by Vadim Grigoruk | Lua, MoonSciprt, JavaScript | Free/$5(Pro), [MIT](https://github.com/nesbox/TIC-80) | Windows, macOS, Linux, Android | 240x136
 [VectorBoy](https://melloland.itch.io/vectorboy) by David Jalbert | Lua | [NYOP](https://melloland.itch.io/vectorboy) | Windows | vector
 [VVpet](https://github.com/gardrek/VVpet) by Gardrek | Lua | Free, [?](https://github.com/gardrek/VVpet) | Löve | 64x64x2/128x128x4/configurable
-[Zenith80](https://zenith80.github.io) by Noam Preil | Z80 ASM, C | Free, [Apache](https://bitbucket.org/pixelherodev/zenith80) | Windows, Linux | ?
+[Zany80](https://zany80.github.io) by Noam Preil | Z80 ASM, C | Free, [Apache](https://github.com/zany80) | Windows, Linux | ?
 
 * Order by: alphabet.
 * Language: it means built-in language for end users, not implementing language.
