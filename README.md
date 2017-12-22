@@ -1,5 +1,11 @@
 ## FANTASY CONSOLES/COMPUTERS
 
+<p xmlns:dct="http://purl.org/dc/terms/">
+	<a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
+		<img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+	</a>
+</p>
+
 This is a list of available fantasy consoles/computers. Including softwares which simulate virtual hardwares, with limited functionality. And always encourage creating and sharing tiny retro games and programs with built-in languages and tools.
 
 FC | Language | Price & License | Platform | Display
