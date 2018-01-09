@@ -10,6 +10,7 @@ This is a list of available fantasy consoles/computers. Including softwares whic
 
 FC | Language | Price & License | Platform | Display
 ---- | ---- | ---- | ---- | ----
+[BASIC8](https://paladin-t.github.io/b8/) by Tony Wang | BASIC | $14.99 | Windows | 160×128
 [CToy](https://github.com/anael-seghezzi/CToy) by Anaël Seghezzi | C | Free, [Zlib](https://github.com/anael-seghezzi/CToy) | Windows, macOS, Linux | 128×128
 [DRAK-0](https://github.com/drako0812/DRAK-0) by Drew Wibbenmeyer | ChaiScript, LuaJIT (coming soon) | NYOP, [MIT](https://github.com/drako0812/DRAK-0) | Windows | 320x240
 [DX8](https://betajaen.itch.io/dx8) by Robin Southern | ASM | Free, [MIT](https://github.com/betajaen/dx8) | Windows | 320x256
