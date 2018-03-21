@@ -19,10 +19,12 @@ FC | Language | Price & License | Platform | Display
 [LIKO-12](https://ramilego4game.itch.io/liko12) by RamiLego4Game | Lua | NYOP, [MIT](https://github.com/RamiLego4Game/LIKO-12) | Windows, macOS, Linux, Android | 192x128
 [LowRes Coder](http://lowres.inutilis.com) by Timo Kloss | BASIC | $4.99 (F2P) | iOS | up to 128×128
 [NEKO8](https://egordorichev.itch.io/neko8) by Egor Dorichev | Lua, BASIC, ASM, MoonSciprt | NYOP, [?](https://github.com/egordorichev/neko8) | Windows, macOS, Linux, Android | 192x128
+[Phosphor](https://mlepage.github.io/phosphor/) by Marc Lepage | Lua | Free, [?](https://github.com/mlepage/phosphor) | Browser | 192x128
 [PICO-8](https://www.lexaloffle.com/pico-8.php) by Lexaloffle | Lua | $14.99 | Windows, macOS, Linux, Raspbery Pi | 128x128
 [Pixel Vision 8](https://pixelvision8.itch.io/game-creator) by Pixel Vision 8 | Lua | $14.99 | Windows, macOS, Linux | 256x240
 [PX8](https://hallucino.itch.io/px8) by hallucino | Lua, Python | NYOP, [MIT](https://github.com/Gigoteur/PX8) | Windows, macOS, Linux | configurable
 [Riko4](https://github.com/incinirate/riko4) by Bryan | Lua | Free, [MIT](https://github.com/incinirate/riko4) | Windows | 1056x594?
+[SCRIPT-8](https://script-8.github.io/) by Gabriel Florit | JavaScript | Free, [MIT](https://github.com/script-8/script-8.github.io) | Browser | 128x128
 [SmileBASIC](http://smilebasic.com) by SmileBoom | BASIC | $9.99 | 3DS | 400x240/320x240
 [Tako 80](http://tako80.net) by pistacchio | JavaScript | Free, [MIT](https://github.com/pistacchio/tako80) | Browser | 160x144
 [TIC-80](https://tic.computer) by Vadim Grigoruk | Lua, MoonSciprt, JavaScript | Free/$5(Pro), [MIT](https://github.com/nesbox/TIC-80) | Windows, macOS, Linux, Android | 240x136
