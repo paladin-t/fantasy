@@ -21,6 +21,7 @@ FC | Language | Price & License | Platform | Display
 [NEKO8](https://egordorichev.itch.io/neko8) by Egor Dorichev | Lua, BASIC, ASM, MoonSciprt | NYOP, [?](https://github.com/egordorichev/neko8) | Windows, macOS, Linux, Android | 192x128
 [Phosphor](https://mlepage.github.io/phosphor/) by Marc Lepage | Lua | Free, [MIT](https://github.com/mlepage/phosphor) | Browser | 192x128
 [PICO-8](https://www.lexaloffle.com/pico-8.php) by Lexaloffle | Lua | $14.99 | Windows, macOS, Linux, Raspbery Pi | 128x128
+[Pix64](https://zappedcow.itch.io/pix64) by ZappedCow | PNG | NYOP | Windows, Linux | 64x64
 [Pixel Vision 8](https://pixelvision8.itch.io/game-creator) by Pixel Vision 8 | Lua | $14.99 | Windows, macOS, Linux | 256x240
 [PX8](https://hallucino.itch.io/px8) by hallucino | Lua, Python | NYOP, [MIT](https://github.com/Gigoteur/PX8) | Windows, macOS, Linux | configurable
 [Riko4](https://github.com/incinirate/riko4) by Bryan | Lua | Free, [MIT](https://github.com/incinirate/riko4) | Windows | 1056x594?
