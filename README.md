@@ -1,6 +1,4 @@
-## FANTASY CONSOLES/COMPUTERS
-
-![awesome](https://github.com/sindresorhus/awesome/blob/master/media/badge.svg)
+## FANTASY CONSOLES/COMPUTERS ![awesome](https://github.com/sindresorhus/awesome/blob/master/media/badge.svg)
 
 <p xmlns:dct="http://purl.org/dc/terms/">
 	<a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
