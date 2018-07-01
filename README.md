@@ -1,5 +1,7 @@
 ## FANTASY CONSOLES/COMPUTERS
 
+![awesome](https://github.com/sindresorhus/awesome/blob/master/media/badge.svg)
+
 <p xmlns:dct="http://purl.org/dc/terms/">
 	<a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
 		<img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
@@ -18,6 +20,7 @@ FC | Language | Price & License | Platform | Display
 [FAZIC](https://fazic.io/) by Michał Kalbarczyk | BASIC | Free | Browser | 320x240
 [LIKO-12](https://ramilego4game.itch.io/liko12) by RamiLego4Game | Lua | NYOP, [MIT](https://github.com/RamiLego4Game/LIKO-12) | Windows, macOS, Linux, Android | 192x128
 [LowRes Coder](http://lowres.inutilis.com) by Timo Kloss | BASIC | $4.99 (F2P) | iOS | up to 128×128
+[LowRes NX](http://lowres.inutilis.com/about-nx/) by Timo Kloss | BASIC | Free, [LGPL-3.0](https://github.com/timoinutilis/lowres-nx) | iOS | 160×128
 [NEKO8](https://egordorichev.itch.io/neko8) by Egor Dorichev | Lua, BASIC, ASM, MoonSciprt | NYOP, [?](https://github.com/egordorichev/neko8) | Windows, macOS, Linux, Android | 192x128
 [Phosphor](https://mlepage.github.io/phosphor/) by Marc Lepage | Lua | Free, [MIT](https://github.com/mlepage/phosphor) | Browser | 192x128
 [PICO-8](https://www.lexaloffle.com/pico-8.php) by Lexaloffle | Lua | $14.99 | Windows, macOS, Linux, Raspbery Pi | 128x128
