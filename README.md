@@ -25,7 +25,7 @@ FC | Language | Price & License | Platform | Display
 [Pix64](https://zappedcow.itch.io/pix64) by ZappedCow | PNG | NYOP | Windows, Linux | 64x64
 [Pixel Vision 8](https://pixelvision8.itch.io/game-creator) by Pixel Vision 8 | Lua | $14.99 | Windows, macOS, Linux | 256x240
 [PX8](https://hallucino.itch.io/px8) by hallucino | Lua, Python | NYOP, [MIT](https://github.com/Gigoteur/PX8) | Windows, macOS, Linux | configurable
-[Riko4](https://github.com/incinirate/riko4) by Bryan | Lua | Free, [MIT](https://github.com/incinirate/riko4) | Windows | 1056x594?
+[Riko4](https://github.com/incinirate/riko4) by Bryan | Lua | Free, [MIT](https://github.com/incinirate/riko4) | Windows | 280x160
 [SCRIPT-8](https://script-8.github.io/) by Gabriel Florit | JavaScript | Free, [MIT](https://github.com/script-8/script-8.github.io) | Browser | 128x128
 [SmileBASIC](http://smilebasic.com) by SmileBoom | BASIC | $9.99 | 3DS | 400x240/320x240
 [Tako 80](http://tako80.net) by pistacchio | JavaScript | Free, [MIT](https://github.com/pistacchio/tako80) | Browser | 160x144
