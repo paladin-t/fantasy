@@ -31,6 +31,7 @@ FC | Language | Price & License | Platform | Display
 [Tako 80](http://tako80.net) by pistacchio | JavaScript | Free, [MIT](https://github.com/pistacchio/tako80) | Browser | 160x144
 [TIC-80](https://tic.computer) by Vadim Grigoruk | Lua, MoonSciprt, JavaScript | Free/$5(Pro), [MIT](https://github.com/nesbox/TIC-80) | Windows, macOS, Linux, Android | 240x136
 [VectorBoy](https://melloland.itch.io/vectorboy) by David Jalbert | Lua | [NYOP](https://melloland.itch.io/vectorboy) | Windows | vector
+[Voxatron](https://www.lexaloffle.com/voxatron.php) by Lexaloffle | micro-scripting | $19.99 | Windows, macOS, Linux | Voxel
 [VVpet](https://github.com/gardrek/VVpet) by Gardrek | Lua | Free, [?](https://github.com/gardrek/VVpet) | Löve | 64x64x2/128x128x4/configurable
 [Zany80](https://zany80.github.io) by Noam Preil | Z80 ASM, C | Free, [Apache](https://github.com/zany80) | Windows, Linux | ?
 
