@@ -19,7 +19,7 @@ FC | Language | Price & License | Platform | Display
 [LIKO-12](https://ramilego4game.itch.io/liko12) by RamiLego4Game | Lua | [NYOP](https://ramilego4game.itch.io/liko12), [MIT](https://github.com/RamiLego4Game/LIKO-12) | Windows, macOS, Linux, Android | 192x128
 [LowRes Coder](http://lowres.inutilis.com) by Timo Kloss | BASIC | [$4.99 (F2P)](https://itunes.apple.com/us/app/lowres-coder-program-retro/id962117496?mt=8) | iOS | up to 128×128
 [LowRes NX](http://lowres.inutilis.com/about-nx/) by Timo Kloss | BASIC | Free, [LGPL-3.0](https://github.com/timoinutilis/lowres-nx) | iOS | 160×128
-[NEKO8](https://egordorichev.itch.io/neko8) by Egor Dorichev | Lua, BASIC, ASM, MoonSciprt | [NYOP](https://egordorichev.itch.io/neko8), [?](https://github.com/egordorichev/neko8) | Windows, macOS, Linux, Android | 192x128
+[NEKO8](https://egordorichev.itch.io/neko8) by Egor Dorichev | Lua, BASIC, ASM, MoonScript | [NYOP](https://egordorichev.itch.io/neko8), [?](https://github.com/egordorichev/neko8) | Windows, macOS, Linux, Android | 192x128
 [Phosphor](https://mlepage.github.io/phosphor/) by Marc Lepage | Lua | [Free](https://mlepage.github.io/phosphor/), [MIT](https://github.com/mlepage/phosphor) | Browser | 192x128
 [PICO-8](https://www.lexaloffle.com/pico-8.php) by Lexaloffle | Lua | [$14.99](https://www.lexaloffle.com/pico-8.php) | Windows, macOS, Linux, Raspbery Pi | 128x128
 [Pix64](https://zappedcow.itch.io/pix64) by ZappedCow | PNG | [NYOP](https://zappedcow.itch.io/pix64) | Windows, Linux | 64x64
@@ -33,7 +33,7 @@ FC | Language | Price & License | Platform | Display
 [VectorBoy](https://melloland.itch.io/vectorboy) by David Jalbert | Lua | [NYOP](https://melloland.itch.io/vectorboy) | Windows | vector
 [Voxatron](https://www.lexaloffle.com/voxatron.php) by Lexaloffle | micro-scripting | [$19.99](https://www.lexaloffle.com/voxatron.php) | Windows, macOS, Linux | Voxel
 [VVpet](https://github.com/gardrek/VVpet) by Gardrek | Lua | Free, [?](https://github.com/gardrek/VVpet) | Löve | 64x64x2/128x128x4/configurable
-[Zany80](https://zany80.github.io) by Noam Preil | Z80 ASM, C | [Free](https://zany80.github.io/downloads.html), [Apache](https://github.com/zany80) | Windows, Linux | ?
+[Zany80](https://zany80.github.io) by Noam Preil | Z80 ASM, C89 | [Free](https://zany80.github.io/downloads.html), [Apache](https://github.com/zany80) | Windows, Linux | ?
 
 * Order by: alphabet.
 * Language: it means built-in language for end users, not implementing language.
@@ -42,7 +42,7 @@ FC | Language | Price & License | Platform | Display
 People find it difficult to search this kind of software to play with, so it is relaxed for choosing available consoles. However, it's fairly simple to tell if one is **not** a fantasy console/computer:
 
 1. Hardware such as RaspberryPi and Gamebuino are not
-2. Emulators (eg. NES, C64, DOSBox) are not
+2. Emulators of real hardware (eg. NES, C64, DOSBox) are not
 3. Generic graphics libraries and game engines are not
 4. Programming IDEs and editors are not
 5. Minecraft is not
