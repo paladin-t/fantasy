@@ -16,11 +16,12 @@ FC | Language | Price & License | Platform | Display
 [DRAK-0](https://github.com/drako0812/DRAK-0) by Drew Wibbenmeyer | ChaiScript, LuaJIT (coming soon) | [NYOP](https://github.com/drako0812/DRAK-0/releases), [MIT](https://github.com/drako0812/DRAK-0) | Windows | 320x240
 [DX8](https://betajaen.itch.io/dx8) by Robin Southern | ASM | [Free](https://betajaen.itch.io/dx8), [MIT](https://github.com/betajaen/dx8) | Windows | 320x256
 [FAZIC](https://fazic.io/) by Michał Kalbarczyk | BASIC | [Free](https://fazic.io/fazic) | Browser | 320x240
+[IBNIZ](http://pelulamu.net/ibniz/) by viznut | Instructions | [Free](http://pelulamu.net/ibniz/), [?](https://github.com/viznut/IBNIZ/tree/master/src) | Windows | 256x256
 [Leikr16](https://github.com/Torbuntu/Leikr16) by Torbubntu | Groovy, Java, Python | Free, [Apache](https://github.com/Torbuntu/Leikr16) | Linux, Windows | 320x240
 [LIKO-12](https://ramilego4game.itch.io/liko12) by RamiLego4Game | Lua | [NYOP](https://ramilego4game.itch.io/liko12), [MIT](https://github.com/RamiLego4Game/LIKO-12) | Windows, macOS, Linux, Android | 192x128
 [LowRes Coder](http://lowres.inutilis.com) by Timo Kloss | BASIC | [$4.99 (F2P)](https://itunes.apple.com/us/app/lowres-coder-program-retro/id962117496?mt=8) | iOS | up to 128×128
 [LowRes NX](http://lowres.inutilis.com/about-nx/) by Timo Kloss | BASIC | Free, [LGPL-3.0](https://github.com/timoinutilis/lowres-nx) | iOS | 160×128
-[nano Jammer](https://morgan3d.github.io/nano/) by Morgan McGuire | nano | Free, BSD | Web | 64x64
+[nano Jammer](https://morgan3d.github.io/nano/) by Morgan McGuire | nano | Free, BSD | Browser | 64x64
 [NEKO8](https://egordorichev.itch.io/neko8) by Egor Dorichev | Lua, BASIC, ASM, MoonScript | [NYOP](https://egordorichev.itch.io/neko8), [?](https://github.com/egordorichev/neko8) | Windows, macOS, Linux, Android | 192x128
 [Phosphor](https://mlepage.github.io/phosphor/) by Marc Lepage | Lua | [Free](https://mlepage.github.io/phosphor/), [MIT](https://github.com/mlepage/phosphor) | Browser | 192x128
 [PICO-8](https://www.lexaloffle.com/pico-8.php) by Lexaloffle | Lua | [$14.99](https://www.lexaloffle.com/pico-8.php) | Windows, macOS, Linux, Raspbery Pi | 128x128
