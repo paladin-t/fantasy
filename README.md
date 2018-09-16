@@ -1,7 +1,7 @@
-## FANTASY CONSOLES/COMPUTERS ![awesome](https://github.com/sindresorhus/awesome/blob/master/media/badge.svg)
+## FANTASY CONSOLES/COMPUTERS
 
 <p xmlns:dct="http://purl.org/dc/terms/">
-	<a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
+	<a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">
 		<img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
 	</a>
 </p>
