@@ -17,7 +17,7 @@ FC | Language | Price & License | Platform | Display
 [DX8](https://betajaen.itch.io/dx8) by Robin Southern | ASM | [Free](https://betajaen.itch.io/dx8), [MIT](https://github.com/betajaen/dx8) | Windows | 320x256
 [FAZIC](https://fazic.io/) by Michał Kalbarczyk | BASIC | [Free](https://fazic.io/fazic) | Browser | 320x240
 [IBNIZ](http://pelulamu.net/ibniz/) by viznut | Instructions | [Free](http://pelulamu.net/ibniz/), [zlib](https://github.com/viznut/IBNIZ/tree/master/src/licence.txt) | Windows, Linux | 256x256
-[Leikr16](https://github.com/Torbuntu/Leikr16) by Torbubntu | Groovy, Java, Python | Free, [Apache](https://github.com/Torbuntu/Leikr16) | Linux, Windows | 320x240
+[Leikr16](https://github.com/Torbuntu/Leikr16) by Torbuntu | Groovy, Java, Python | Free, [Apache](https://github.com/Torbuntu/Leikr16) | Linux, Windows | 320x240
 [LIKO-12](https://ramilego4game.itch.io/liko12) by RamiLego4Game | Lua | [NYOP](https://ramilego4game.itch.io/liko12), [MIT](https://github.com/RamiLego4Game/LIKO-12) | Windows, macOS, Linux, Android | 192x128
 [LowRes Coder](http://lowres.inutilis.com) by Timo Kloss | BASIC | [$4.99 (F2P)](https://itunes.apple.com/us/app/lowres-coder-program-retro/id962117496?mt=8) | iOS | up to 128×128
 [LowRes NX](http://lowres.inutilis.com/about-nx/) by Timo Kloss | BASIC | Free, [LGPL-3.0](https://github.com/timoinutilis/lowres-nx) | iOS | 160×128
