@@ -38,11 +38,11 @@ FC | Language | Price & License | Platform | Display
 [VVpet](https://github.com/gardrek/VVpet) by Gardrek | Lua | Free, [?](https://github.com/gardrek/VVpet) | Löve | 64x64x2/128x128x4/configurable
 [Zany80](https://zany80.github.io) by Noam Preil | Z80 ASM, C89 | [Free](https://zany80.github.io/downloads.html), [Apache](https://github.com/zany80) | Windows, Linux | 480x320
 
-* Order by: alphabet.
-* Language: it means built-in language for end users, not implementing language.
+* Ordered by: alphabet.
+* Language: Mean built-in language(s) for end users, not the language in which it was created.
 * NYOP: Name Your Own Price.
 
-People find it difficult to search this kind of software to play with, so it is relaxed for choosing available consoles. However, it's fairly simple to tell if one is **not** a fantasy console/computer:
+People find it difficult to search for this kind of software to play with, so the definition is relaxed for choosing available consoles. However, it's fairly simple to tell if one is **not** a fantasy console/computer:
 
 1. Hardware such as RaspberryPi and Gamebuino are not
 2. Emulators of real hardware (eg. NES, C64, DOSBox) are not
@@ -50,4 +50,4 @@ People find it difficult to search this kind of software to play with, so it is 
 4. Programming IDEs and editors are not
 5. Minecraft is not
 
-As things evolving, feel free to update this list, or correct any mistakes, pull requests are welcome.
+As things keep evolving, feel free to update this list, or correct any mistakes. Pull requests are welcome.
