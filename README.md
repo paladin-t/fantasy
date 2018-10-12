@@ -1,9 +1,9 @@
 ## FANTASY CONSOLES/COMPUTERS
 
 <p xmlns:dct="http://purl.org/dc/terms/">
-	<a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">
-		<img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-	</a>
+  <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
 </p>
 
 This is a list of available fantasy consoles/computers. Including softwares which simulate virtual hardwares, with limited functionality. And always encourage creating and sharing tiny retro games and programs with built-in languages and tools.
@@ -15,7 +15,7 @@ FC | Language | Price & License | Platform | Display
 [CToy](https://github.com/anael-seghezzi/CToy) by Anaël Seghezzi | C | [Free](http://anael.maratis3d.com/ctoy/bin/), [Zlib](https://github.com/anael-seghezzi/CToy) | Windows, macOS, Linux | 128×128
 [DRAK-0](https://github.com/drako0812/DRAK-0) by Drew Wibbenmeyer | ChaiScript, LuaJIT (coming soon) | [NYOP](https://github.com/drako0812/DRAK-0/releases), [MIT](https://github.com/drako0812/DRAK-0) | Windows | 320x240
 [DX8](https://betajaen.itch.io/dx8) by Robin Southern | ASM | [Free](https://betajaen.itch.io/dx8), [MIT](https://github.com/betajaen/dx8) | Windows | 320x256
-[FAZIC](https://fazic.io/) by Michał Kalbarczyk | BASIC | [Free](https://fazic.io/fazic) | Browser | 320x240
+[FAZIC](https://fazic.fazibear.me/) by Michał Kalbarczyk | BASIC | [Free](https://fazic.fazibear.me/fazic) | Browser | 320x240
 [IBNIZ](http://pelulamu.net/ibniz/) by viznut | Instructions | [Free](http://pelulamu.net/ibniz/), [zlib](https://github.com/viznut/IBNIZ/tree/master/src/licence.txt) | Windows, Linux | 256x256
 [Leikr16](https://github.com/Torbuntu/Leikr16) by Torbuntu | Groovy, Java, Python | Free, [Apache](https://github.com/Torbuntu/Leikr16) | Linux, Windows | 320x240
 [LIKO-12](https://ramilego4game.itch.io/liko12) by RamiLego4Game | Lua | [NYOP](https://ramilego4game.itch.io/liko12), [MIT](https://github.com/RamiLego4Game/LIKO-12) | Windows, macOS, Linux, Android | 192x128
