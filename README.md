@@ -31,7 +31,7 @@ FC | Language | Price & License | Platform | Display
 [Riko4](https://github.com/incinirate/riko4) by Bryan | Lua | [Free](https://github.com/incinirate/Riko4/releases), [MIT](https://github.com/incinirate/riko4) | Windows, macOS, Linux | 280x160
 [SCRIPT-8](https://script-8.github.io/) by Gabriel Florit | JavaScript | [Free](https://script-8.github.io/), [MIT](https://github.com/script-8/script-8.github.io) | Browser | 128x128
 [SmileBASIC](http://smilebasic.com) by SmileBoom | BASIC | [$9.99](http://smilebasic.com/buynow/) | 3DS | 400x240/320x240
-[Tako 80](http://tako80.net) by pistacchio | JavaScript | Free, [MIT](https://github.com/pistacchio/tako80) | Browser | 160x144
+[Tako 80](https://github.com/pistacchio/tako80) by pistacchio | JavaScript | Free, [MIT](https://github.com/pistacchio/tako80) | Browser | 160x144
 [TIC-80](https://tic.computer) by Vadim Grigoruk | Lua, MoonSciprt, JavaScript | [Free/$5(Pro)](https://tic.computer/create), [MIT](https://github.com/nesbox/TIC-80) | Windows, macOS, Linux, Android | 240x136
 [VectorBoy](https://melloland.itch.io/vectorboy) by David Jalbert | Lua | [NYOP](https://melloland.itch.io/vectorboy) | Windows | vector
 [Voxatron](https://www.lexaloffle.com/voxatron.php) by Lexaloffle | micro-scripting | [$19.99](https://www.lexaloffle.com/voxatron.php) | Windows, macOS, Linux | Voxel
