@@ -11,8 +11,8 @@ This is a list of available fantasy consoles/computers. Including softwares whic
 FC | Language | Price & License | Platform | Display
 ---- | ---- | ---- | ---- | ----
 [BASIC8](https://paladin-t.github.io/b8/) by Tony Wang | BASIC | [$14.99](https://store.steampowered.com/app/767240/) | Windows, macOS, Linux | 160×128
-[Click4](https://github.com/josefnpat/click4) by Josef Patoprsty | ASM | [Free](https://github.com/josefnpat/click4/releases), [MIT](https://github.com/josefnpat/click4/blob/master/license.txt) | Windows, macOS, Linux | 64x64
 [CHROMA-60](https://arkia.itch.io/chroma-60) by Arkia | ASM | Free | Windows, Linux | 240x135
+[Click4](https://github.com/josefnpat/click4) by Josef Patoprsty | ASM | [Free](https://github.com/josefnpat/click4/releases), [MIT](https://github.com/josefnpat/click4/blob/master/license.txt) | Windows, macOS, Linux | 64x64
 [CToy](https://github.com/anael-seghezzi/CToy) by Anaël Seghezzi | C | [Free](http://anael.maratis3d.com/ctoy/bin/), [Zlib](https://github.com/anael-seghezzi/CToy) | Windows, macOS, Linux | 128×128
 [DRAK-0](https://github.com/drako0812/DRAK-0) by Drew Wibbenmeyer | ChaiScript, LuaJIT (coming soon) | [NYOP](https://github.com/drako0812/DRAK-0/releases), [MIT](https://github.com/drako0812/DRAK-0) | Windows | 320x240
 [DX8](https://betajaen.itch.io/dx8) by Robin Southern | ASM | [Free](https://betajaen.itch.io/dx8), [MIT](https://github.com/betajaen/dx8) | Windows | 320x256
