@@ -11,26 +11,26 @@ This is a list of available fantasy consoles/computers. Including softwares whic
 FC | Language | Price & License | Platform | Display
 ---- | ---- | ---- | ---- | ----
 [BASIC8](https://paladin-t.github.io/b8/) by Tony Wang | BASIC | [$14.99](https://store.steampowered.com/app/767240/) | Windows, macOS, Linux | 160×128
-[CHROMA-60](https://arkia.itch.io/chroma-60) by Arkia | ASM | Free | Windows, Linux | 240x135
+[CHROMA-60](https://arkia.itch.io/chroma-60) by Arkia | ASM | [Free](https://arkia.itch.io/chroma-60) | Windows, Linux | 240x135
 [Click4](https://github.com/josefnpat/click4) by Josef Patoprsty | ASM | [Free](https://github.com/josefnpat/click4/releases), [MIT](https://github.com/josefnpat/click4/blob/master/license.txt) | Windows, macOS, Linux | 64x64
 [CToy](https://github.com/anael-seghezzi/CToy) by Anaël Seghezzi | C | [Free](http://anael.maratis3d.com/ctoy/bin/), [Zlib](https://github.com/anael-seghezzi/CToy) | Windows, macOS, Linux | 128×128
 [DRAK-0](https://github.com/drako0812/DRAK-0) by Drew Wibbenmeyer | ChaiScript, LuaJIT (coming soon) | [NYOP](https://github.com/drako0812/DRAK-0/releases), [MIT](https://github.com/drako0812/DRAK-0) | Windows | 320x240
 [DX8](https://betajaen.itch.io/dx8) by Robin Southern | ASM | [Free](https://betajaen.itch.io/dx8), [MIT](https://github.com/betajaen/dx8) | Windows | 320x256
-[ECoS](https://mljware.itch.io/ecos) by MLJWare | Lua | Free | Windows, macOS, Linux | 128x128
+[ECoS](https://mljware.itch.io/ecos) by MLJWare | Lua | [NYOP](https://mljware.itch.io/ecos) | Windows, macOS, Linux | 128x128
 [FAZIC](https://fazic.fazibear.me/) by Michał Kalbarczyk | BASIC | [Free](https://fazic.fazibear.me/fazic) | Browser | 320x240
-[G-eon](https://github.com/G-eon/g-eon-wiki/wiki) by Memorix101 | JavaScript | [Free](https://memorix101.itch.io/g-eon) | Windows, Linux, Raspberry Pi | 640x480
+[G-eon](https://github.com/G-eon/g-eon-wiki/wiki) by Memorix101 | JavaScript | [NYOP](https://memorix101.itch.io/g-eon) | Windows, Linux, Raspberry Pi | 640x480
 [IBNIZ](http://pelulamu.net/ibniz/) by viznut | Instructions | [Free](http://pelulamu.net/ibniz/), [zlib](https://github.com/viznut/IBNIZ/tree/master/src/licence.txt) | Windows, Linux | 256x256
 [Leikr16](https://github.com/Torbuntu/Leikr16) by Torbuntu | Groovy, Java, Python | Free, [Apache](https://github.com/Torbuntu/Leikr16) | Linux, Windows | 320x240
 [LIKO-12](https://ramilego4game.itch.io/liko12) by RamiLego4Game | Lua | [NYOP](https://ramilego4game.itch.io/liko12), [MIT](https://github.com/RamiLego4Game/LIKO-12) | Windows, macOS, Linux, Android | 192x128
 [LowRes Coder](http://lowres.inutilis.com) by Timo Kloss | BASIC | [$4.99 (F2P)](https://itunes.apple.com/us/app/lowres-coder-program-retro/id962117496?mt=8) | iOS | up to 128×128
-[LowRes NX](http://lowres.inutilis.com/about-nx/) by Timo Kloss | BASIC | Free, [LGPL-3.0](https://github.com/timoinutilis/lowres-nx) | iOS | 160×128
-[nano Jammer](https://morgan3d.github.io/nano/) by Morgan McGuire | nano | Free, BSD | Browser | 64x64
+[LowRes NX](https://lowresnx.inutilis.com/) by Timo Kloss | BASIC | [Free](https://lowresnx.inutilis.com/), [LGPL-3.0](https://github.com/timoinutilis/lowres-nx) | iOS | 160×128
+[nano Jammer](https://morgan3d.github.io/nano/) by Morgan McGuire | nano | Free, [BSD](https://github.com/morgan3d/nano/) | Browser | 64x64
 [NEKO8](https://egordorichev.itch.io/neko8) by Egor Dorichev | Lua, BASIC, ASM, MoonScript | [NYOP](https://egordorichev.itch.io/neko8), [?](https://github.com/egordorichev/neko8) | Windows, macOS, Linux, Android | 192x128
 [Phosphor](https://mlepage.github.io/phosphor/) by Marc Lepage | Lua | [Free](https://mlepage.github.io/phosphor/), [MIT](https://github.com/mlepage/phosphor) | Browser | 192x128
 [PICO-8](https://www.lexaloffle.com/pico-8.php) by Lexaloffle | Lua | [$14.99](https://www.lexaloffle.com/pico-8.php) | Windows, macOS, Linux, Raspbery Pi | 128x128
 [Pix64](https://zappedcow.itch.io/pix64) by ZappedCow | PNG | [NYOP](https://zappedcow.itch.io/pix64) | Windows, Linux | 64x64
 [Pixel Vision 8](https://pixelvision8.itch.io/game-creator) by Pixel Vision 8 | Lua | [$14.99](https://pixelvision8.itch.io/game-creator) | Windows, macOS, Linux | 256x240
-[Prism-384](https://grapefruitopia.itch.io/prism-384) by Grapefruitopia Industries | JavaScript | Free | Browser, Windows, macOS | 384x216
+[Prism-384](https://grapefruitopia.itch.io/prism-384) by Grapefruitopia Industries | JavaScript | [Free](https://grapefruitopia.itch.io/prism-384)/[$5](https://grapefruitopia.itch.io/prism-384) | Browser, Windows, macOS | 384x216
 [PX8](https://hallucino.itch.io/px8) by hallucino | Lua, Python | [NYOP](https://hallucino.itch.io/px8), [MIT](https://github.com/Gigoteur/PX8) | Windows, macOS, Linux | configurable
 [Riko4](https://github.com/incinirate/riko4) by Bryan | Lua | [Free](https://github.com/incinirate/Riko4/releases), [MIT](https://github.com/incinirate/riko4) | Windows, macOS, Linux | 280x160
 [SCRIPT-8](https://script-8.github.io/) by Gabriel Florit | JavaScript | [Free](https://script-8.github.io/), [MIT](https://github.com/script-8/script-8.github.io) | Browser | 128x128
