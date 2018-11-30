@@ -23,7 +23,7 @@ FC | Language | Price & License | Platform | Display
 [Leikr16](https://github.com/Torbuntu/Leikr16) by Torbuntu | Groovy, Java, Python | Free, [Apache](https://github.com/Torbuntu/Leikr16) | Linux, Windows | 320x240
 [LIKO-12](https://ramilego4game.itch.io/liko12) by RamiLego4Game | Lua | [NYOP](https://ramilego4game.itch.io/liko12), [MIT](https://github.com/RamiLego4Game/LIKO-12) | Windows, macOS, Linux, Android | 192x128
 [LowRes Coder](http://lowres.inutilis.com) by Timo Kloss | BASIC | [$4.99 (F2P)](https://itunes.apple.com/us/app/lowres-coder-program-retro/id962117496?mt=8) | iOS | up to 128×128
-[LowRes NX](https://lowresnx.inutilis.com/) by Timo Kloss | BASIC | [Free](https://lowresnx.inutilis.com/), [LGPL-3.0](https://github.com/timoinutilis/lowres-nx) | iOS | 160×128
+[LowRes NX](https://lowresnx.inutilis.com/) by Timo Kloss | BASIC | [Free](https://lowresnx.inutilis.com/), [LGPL-3.0](https://github.com/timoinutilis/lowres-nx) | Windows, macOS, iOS | 160×128
 [nano Jammer](https://morgan3d.github.io/nano/) by Morgan McGuire | nano | Free, [BSD](https://github.com/morgan3d/nano/) | Browser | 64x64
 [NEKO8](https://egordorichev.itch.io/neko8) by Egor Dorichev | Lua, BASIC, ASM, MoonScript | [NYOP](https://egordorichev.itch.io/neko8), [?](https://github.com/egordorichev/neko8) | Windows, macOS, Linux, Android | 192x128
 [Phosphor](https://mlepage.github.io/phosphor/) by Marc Lepage | Lua | [Free](https://mlepage.github.io/phosphor/), [MIT](https://github.com/mlepage/phosphor) | Browser | 192x128
