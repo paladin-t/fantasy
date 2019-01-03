@@ -29,14 +29,14 @@ FC | Language | Price & License | Platform | Display
 [Phosphor](https://mlepage.github.io/phosphor/) by Marc Lepage | Lua | [Free](https://mlepage.github.io/phosphor/), [MIT](https://github.com/mlepage/phosphor) | Browser | 192x128
 [PICO-8](https://www.lexaloffle.com/pico-8.php) by Lexaloffle | Lua | [$14.99](https://www.lexaloffle.com/pico-8.php) | Windows, macOS, Linux, Raspbery Pi | 128x128
 [Pix64](https://zappedcow.itch.io/pix64) by ZappedCow | PNG | [NYOP](https://zappedcow.itch.io/pix64) | Windows, Linux | 64x64
-[Pixel Vision 8](https://pixelvision8.itch.io/game-creator) by Pixel Vision 8 | Lua | [$14.99](https://pixelvision8.itch.io/game-creator) | Windows, macOS, Linux | 256x240
-[Prism-384](https://grapefruitopia.itch.io/prism-384) by Grapefruitopia Industries | JavaScript | [Free](https://grapefruitopia.itch.io/prism-384)/[$5](https://grapefruitopia.itch.io/prism-384) | Browser, Windows, macOS | 384x216
+[Pixel Vision 8](https://www.pixelvision8.com/) by Pixel Vision 8 | Lua | [Free (Limited tools), $14.99 (All tools), $1/mo (All versions plus extras)](https://www.pixelvision8.com/fantasy-console-club) | Windows, macOS, Linux | 256x240
+[Prism-384](https://grapefruitopia.itch.io/prism-384) by Grapefruitopia Industries | JavaScript | [Free](https://grapefruitopia.itch.io/prism-384), [$5](https://grapefruitopia.itch.io/prism-384) | Browser, Windows, macOS | 384x216
 [PX8](https://hallucino.itch.io/px8) by hallucino | Lua, Python | [NYOP](https://hallucino.itch.io/px8), [MIT](https://github.com/Gigoteur/PX8) | Windows, macOS, Linux | configurable
 [Riko4](https://github.com/incinirate/riko4) by Bryan | Lua | [Free](https://github.com/incinirate/Riko4/releases), [MIT](https://github.com/incinirate/riko4) | Windows, macOS, Linux | 280x160
 [SCRIPT-8](https://script-8.github.io/) by Gabriel Florit | JavaScript | [Free](https://script-8.github.io/), [MIT](https://github.com/script-8/script-8.github.io) | Browser | 128x128
 [SmileBASIC](http://smilebasic.com) by SmileBoom | BASIC | [$9.99](http://smilebasic.com/buynow/) | 3DS | 400x240/320x240
 [Tako 80](https://github.com/pistacchio/tako80) by pistacchio | JavaScript | Free, [MIT](https://github.com/pistacchio/tako80) | Browser | 160x144
-[TIC-80](https://tic.computer) by Vadim Grigoruk | Lua, MoonSciprt, JavaScript | [Free/$5(Pro)](https://tic.computer/create), [MIT](https://github.com/nesbox/TIC-80) | Windows, macOS, Linux, Android | 240x136
+[TIC-80](https://tic.computer) by Vadim Grigoruk | Lua, MoonSciprt, JavaScript | [Free, $5 (Pro)](https://tic.computer/create), [MIT](https://github.com/nesbox/TIC-80) | Windows, macOS, Linux, Android | 240x136
 [VectorBoy](https://melloland.itch.io/vectorboy) by David Jalbert | Lua | [NYOP](https://melloland.itch.io/vectorboy) | Windows | vector
 [Voxatron](https://www.lexaloffle.com/voxatron.php) by Lexaloffle | micro-scripting | [$19.99](https://www.lexaloffle.com/voxatron.php) | Windows, macOS, Linux | Voxel
 [VVpet](https://github.com/gardrek/VVpet) by Gardrek | Lua | Free, [?](https://github.com/gardrek/VVpet) | Löve | 64x64x2/128x128x4/configurable
