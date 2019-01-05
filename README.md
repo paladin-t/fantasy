@@ -40,7 +40,7 @@ FC | Language | Price & License | Platform | Display
 [VectorBoy](https://melloland.itch.io/vectorboy) by David Jalbert | Lua | [NYOP](https://melloland.itch.io/vectorboy) | Windows | vector
 [Voxatron](https://www.lexaloffle.com/voxatron.php) by Lexaloffle | micro-scripting | [$19.99](https://www.lexaloffle.com/voxatron.php) | Windows, macOS, Linux | Voxel
 [VVpet](https://github.com/gardrek/VVpet) by Gardrek | Lua | Free, [?](https://github.com/gardrek/VVpet) | Löve | 64x64x2/128x128x4/configurable
-[Zany80](https://zany80.github.io) by Noam Preil | Z80 ASM, C89 | [Free](https://zany80.github.io/downloads.html), [Apache](https://github.com/zany80) | Windows, Linux | Serial I/O
+[Zany80](https://zany80.github.io) by Noam Preil | Z80 ASM, C89 | [Free](https://zany80.github.io/downloads.html), [Apache](https://github.com/zany80) | Windows, Linux, [Browser](https://zany80.github.io/native/emscripten/) | Serial I/O
 
 * Ordered by: alphabet.
 * Language: Mean built-in language(s) for end users, not the language in which it was created.
