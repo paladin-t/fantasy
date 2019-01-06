@@ -36,11 +36,11 @@ FC | Language | Price & License | Platform | Display
 [SCRIPT-8](https://script-8.github.io/) by Gabriel Florit | JavaScript | [Free](https://script-8.github.io/), [MIT](https://github.com/script-8/script-8.github.io) | Browser | 128x128
 [SmileBASIC](http://smilebasic.com) by SmileBoom | BASIC | [$9.99](http://smilebasic.com/buynow/) | 3DS | 400x240/320x240
 [Tako 80](https://github.com/pistacchio/tako80) by pistacchio | JavaScript | Free, [MIT](https://github.com/pistacchio/tako80) | Browser | 160x144
-[TIC-80](https://tic.computer) by Vadim Grigoruk | Lua, MoonSciprt, JavaScript | [Free, $5 (Pro)](https://tic.computer/create), [MIT](https://github.com/nesbox/TIC-80) | Windows, macOS, Linux, Android | 240x136
+[TIC-80](https://tic.computer) by Vadim Grigoruk | Lua, MoonScript, JavaScript | [Free, $5 (Pro)](https://tic.computer/create), [MIT](https://github.com/nesbox/TIC-80) | Windows, macOS, Linux, Android | 240x136
 [VectorBoy](https://melloland.itch.io/vectorboy) by David Jalbert | Lua | [NYOP](https://melloland.itch.io/vectorboy) | Windows | vector
 [Voxatron](https://www.lexaloffle.com/voxatron.php) by Lexaloffle | micro-scripting | [$19.99](https://www.lexaloffle.com/voxatron.php) | Windows, macOS, Linux | Voxel
 [VVpet](https://github.com/gardrek/VVpet) by Gardrek | Lua | Free, [?](https://github.com/gardrek/VVpet) | Löve | 64x64x2/128x128x4/configurable
-[Zany80](https://zany80.github.io) by Noam Preil | Z80 ASM, C89 | [Free](https://zany80.github.io/downloads.html), [Apache](https://github.com/zany80) | Windows, Linux | 480x320
+[Zany80](https://zany80.github.io) by Noam Preil | Z80 ASM, C89 | [Free](https://zany80.github.io/downloads.html), [Apache](https://github.com/zany80) | Windows, Linux, [Browser](https://zany80.github.io/native/emscripten/) | Serial I/O
 
 * Ordered by: alphabet.
 * Language: Mean built-in language(s) for end users, not the language in which it was created.
