@@ -10,10 +10,11 @@ This is a list of available fantasy consoles/computers. Including softwares whic
 
 FC | Language | Price & License | Platform | Display
 ---- | ---- | ---- | ---- | ----
-[BASIC8](https://paladin-t.github.io/b8/) by Tony Wang | [BASIC](https://paladin-t.github.io/b8/docs/manual) | [$14.99](https://store.steampowered.com/app/767240/) | Windows, macOS, Linux | 160×128
+[BASIC8](https://paladin-t.github.io/b8/) by Tony Wang | [BASIC](https://paladin-t.github.io/b8/docs/manual) | [$14.99](https://store.steampowered.com/app/767240/) | Windows, macOS, Linux | 160x128
+[Bitsy](https://ledoux.itch.io/bitsy) by Adam Le Doux | Instructions | [Free](http://ledoux.io/bitsy/editor.html), [?](https://github.com/le-doux/bitsy) | Browser | 16x16 sprites (8x8 per sprite)
 [CHROMA-60](https://arkia.itch.io/chroma-60) by Arkia | ASM | [Free](https://arkia.itch.io/chroma-60) | Windows, Linux | 240x135
 [Click4](https://github.com/josefnpat/click4) by Josef Patoprsty | ASM | [Free](https://github.com/josefnpat/click4/releases), [MIT](https://github.com/josefnpat/click4/blob/master/license.txt) | Windows, macOS, Linux | 64x64
-[CToy](https://github.com/anael-seghezzi/CToy) by Anaël Seghezzi | C | [Free](http://anael.maratis3d.com/ctoy/bin/), [zlib](https://github.com/anael-seghezzi/CToy) | Windows, macOS, Linux | 128×128
+[CToy](https://github.com/anael-seghezzi/CToy) by Anaël Seghezzi | C | [Free](http://anael.maratis3d.com/ctoy/bin/), [zlib](https://github.com/anael-seghezzi/CToy) | Windows, macOS, Linux | 128x128
 [DRAK-0](https://github.com/drako0812/DRAK-0) by Drew Wibbenmeyer | ChaiScript, LuaJIT (coming soon) | [NYOP](https://github.com/drako0812/DRAK-0/releases), [MIT](https://github.com/drako0812/DRAK-0) | Windows | 320x240
 [DX8](https://betajaen.itch.io/dx8) by Robin Southern | ASM | [Free](https://betajaen.itch.io/dx8), [MIT](https://github.com/betajaen/dx8) | Windows | 320x256
 [ECoS](https://mljware.itch.io/ecos) by MLJWare | Lua | [NYOP](https://mljware.itch.io/ecos) | Windows, macOS, Linux | 128x128
@@ -22,8 +23,8 @@ FC | Language | Price & License | Platform | Display
 [IBNIZ](http://pelulamu.net/ibniz/) by viznut | [Instructions](http://pelulamu.net/ibniz/ibniz.txt) | [Free](http://pelulamu.net/ibniz/), [zlib](https://github.com/viznut/IBNIZ/tree/master/src/licence.txt) | Windows, Linux | 256x256
 [Leikr](https://github.com/Torbuntu/Leikr) by Torbuntu | Groovy | Free, [Apache](https://github.com/Torbuntu/Leikr) | Linux, Raspberry Pi 3b(+), Windows | 240x160
 [LIKO-12](https://ramilego4game.itch.io/liko12) by RamiLego4Game | Lua | [NYOP](https://ramilego4game.itch.io/liko12), [MIT](https://github.com/RamiLego4Game/LIKO-12) | Windows, macOS, Linux, Android | 192x128
-[LowRes Coder](http://lowres.inutilis.com) by Timo Kloss | [BASIC](http://lowres.inutilis.com/app-user-guide/) | [$4.99 (F2P)](https://itunes.apple.com/us/app/lowres-coder-program-retro/id962117496?mt=8) | iOS | Up to 128×128
-[LowRes NX](https://lowresnx.inutilis.com/) by Timo Kloss | [BASIC](https://lowresnx.inutilis.com/manual.php) | [Free](https://lowresnx.inutilis.com/), [LGPL-3.0](https://github.com/timoinutilis/lowres-nx) | Windows, macOS, iOS | 160×128
+[LowRes Coder](http://lowres.inutilis.com) by Timo Kloss | [BASIC](http://lowres.inutilis.com/app-user-guide/) | [$4.99 (F2P)](https://itunes.apple.com/us/app/lowres-coder-program-retro/id962117496?mt=8) | iOS | Up to 128x128
+[LowRes NX](https://lowresnx.inutilis.com/) by Timo Kloss | [BASIC](https://lowresnx.inutilis.com/manual.php) | [Free](https://lowresnx.inutilis.com/), [LGPL-3.0](https://github.com/timoinutilis/lowres-nx) | Windows, macOS, iOS | 160x128
 [MakeCode Arcade](https://arcade.makecode.com/) by Microsoft | [Blocks](https://arcade.makecode.com/---docs#doc:reference), JavaScript, TypeScript | [Free](https://arcade.makecode.com/), [MIT](https://github.com/Microsoft/pxt-arcade) | Browser | 160x120
 [nano Jammer](https://morgan3d.github.io/nano/) by Morgan McGuire | [nano](https://morgan3d.github.io/nano/doc/specification.md.html) | Free, [BSD](https://github.com/morgan3d/nano/) | Browser | 64x64
 [NEKO8](https://egordorichev.itch.io/neko8) by Egor Dorichev | Lua, BASIC, ASM, MoonScript | [NYOP](https://egordorichev.itch.io/neko8), [?](https://github.com/egordorichev/neko8) | Windows, macOS, Linux, Android | 192x128
