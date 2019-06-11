@@ -21,7 +21,7 @@ FC | Language | Price & License | Platform | Display
 [FAZIC](https://fazic.fazibear.me/) by Michał Kalbarczyk | [BASIC](https://fazic.fazibear.me/help) | [Free](https://fazic.fazibear.me/fazic) | Browser | 320x240
 [G-eon](https://github.com/G-eon/g-eon-wiki/wiki) by Memorix101 | JavaScript | [NYOP](https://memorix101.itch.io/g-eon) | Windows, Linux, Raspberry Pi | 640x480
 [IBNIZ](http://pelulamu.net/ibniz/) by viznut | [Instructions](http://pelulamu.net/ibniz/ibniz.txt) | [Free](http://pelulamu.net/ibniz/), [zlib](https://github.com/viznut/IBNIZ/tree/master/src/licence.txt) | Windows, Linux | 256x256
-[Leikr](https://github.com/Torbuntu/Leikr) by Torbuntu | Groovy, Java | Free, [Apache](https://github.com/Torbuntu/Leikr) | Linux, Raspberry Pi 3b(+), Windows | 240x160
+[Leikr](https://github.com/Torbuntu/Leikr) by Torbuntu | Groovy, Java | Free, [Apache](https://github.com/Torbuntu/Leikr) | Linux, Raspberry Pi 3B, 3B+, 3A+, Windows | 240x160
 [LIKO-12](https://ramilego4game.itch.io/liko12) by RamiLego4Game | Lua | [NYOP](https://ramilego4game.itch.io/liko12), [MIT](https://github.com/RamiLego4Game/LIKO-12) | Windows, macOS, Linux, Android | 192x128
 [LowRes Coder](http://lowres.inutilis.com) by Timo Kloss | [BASIC](http://lowres.inutilis.com/app-user-guide/) | [$4.99 (F2P)](https://itunes.apple.com/us/app/lowres-coder-program-retro/id962117496?mt=8) | iOS | Up to 128x128
 [LowRes NX](https://lowresnx.inutilis.com/) by Timo Kloss | [BASIC](https://lowresnx.inutilis.com/manual.php) | [Free](https://lowresnx.inutilis.com/), [LGPL-3.0](https://github.com/timoinutilis/lowres-nx) | Windows, macOS, iOS | 160x128
