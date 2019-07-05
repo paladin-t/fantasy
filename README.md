@@ -36,6 +36,7 @@ FC | Language | Price & License | Platform | Display
 [PuzzleScript](https://www.puzzlescript.net/), [DungeonScript](http://dungeonscript.farbs.org/) by Stephen Lavelle | [Instructions](https://www.puzzlescript.net/Documentation/documentation.html) | [Free](https://www.puzzlescript.net/), [MIT](https://github.com/increpare/PuzzleScript) | Browser | Configurable, Voxel (DungeonScript)
 [PX8](https://hallucino.itch.io/px8) by hallucino | Lua, Python | [NYOP](https://hallucino.itch.io/px8), [MIT](https://github.com/Gigoteur/PX8) | Windows, macOS, Linux | Configurable
 [Pyxel](https://github.com/kitao/pyxel) by Takashi Kitao | Python | [MIT](https://github.com/kitao/pyxel/blob/master/LICENSE) | Windows, macOS, Linux | 256x256
+[quadplay](https://morgan3d.github.io/quadplay/) by CasualEffects | PyxlScript | [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html) | Windows, macOS, Linux | 384x224
 [Riko4](https://github.com/incinirate/riko4) by Bryan | Lua | [Free](https://github.com/incinirate/Riko4/releases), [MIT](https://github.com/incinirate/riko4) | Windows, macOS, Linux | 280x160
 [SCRIPT-8](https://script-8.github.io/) by Gabriel Florit | JavaScript | [Free](https://script-8.github.io/), [MIT](https://github.com/script-8/script-8.github.io) | Browser | 128x128
 [SmileBASIC](http://smilebasic.com/en/) by SmileBoom | [BASIC](http://smilebasic.com/en/e-manual/) | [$9.99](http://smilebasic.com/en/buynow/) | 3DS | 400x240, 320x240
