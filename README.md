@@ -33,7 +33,7 @@ FC | Language | Price & License | Platform | Display
 [PICO-8](https://www.lexaloffle.com/pico-8.php) by Lexaloffle | Lua | [$14.99](https://www.lexaloffle.com/pico-8.php) | Windows, macOS, Linux, Raspbery Pi | 128x128
 [Pix64](https://zappedcow.itch.io/pix64) by ZappedCow | PNG | [NYOP](https://zappedcow.itch.io/pix64) | Windows, Linux | 64x64
 [Pixel Vision 8](https://www.pixelvision8.com/) by Pixel Vision 8 | Lua | [Free (Limited tools), $9.99 (All tools), $1/mo (All versions plus extras)](https://www.pixelvision8.com/fantasy-console-club) | Windows, macOS, Linux | 256x240
-[Prism-384](https://grapefruitopia.itch.io/prism-384) by Grapefruitopia Industries | JavaScript | [Free](https://grapefruitopia.itch.io/prism-384), [$5](https://grapefruitopia.itch.io/prism-384) | Browser, Windows, macOS | 384x216
+[Prism-384](https://grapefruitopia.itch.io/prism-384) by Grapefruitopia Industries | JavaScript | [$5](https://grapefruitopia.itch.io/prism-384) | Windows, macOS, Linux, Raspberry Pi | 384x216
 [PuzzleScript](https://www.puzzlescript.net/), [DungeonScript](http://dungeonscript.farbs.org/) by Stephen Lavelle | [Instructions](https://www.puzzlescript.net/Documentation/documentation.html) | [Free](https://www.puzzlescript.net/), [MIT](https://github.com/increpare/PuzzleScript) | Browser | Configurable, Voxel (DungeonScript)
 [PX8](https://hallucino.itch.io/px8) by hallucino | Lua, Python | [NYOP](https://hallucino.itch.io/px8), [MIT](https://github.com/Gigoteur/PX8) | Windows, macOS, Linux | Configurable
 [Pyxel](https://github.com/kitao/pyxel) by Takashi Kitao | Python | [Free](https://github.com/kitao/pyxel/releases), [MIT](https://github.com/kitao/pyxel) | Windows, macOS, Linux | 256x256
