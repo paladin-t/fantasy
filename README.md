@@ -39,6 +39,7 @@ FC | Language | Price & License | Platform | Display
 [PX8](https://hallucino.itch.io/px8) by hallucino | Lua, Python | [NYOP](https://hallucino.itch.io/px8), [MIT](https://github.com/Gigoteur/PX8) | Windows, macOS, Linux | Configurable
 [Pyxel](https://github.com/kitao/pyxel) by Takashi Kitao | Python | [Free](https://github.com/kitao/pyxel/releases), [MIT](https://github.com/kitao/pyxel) | Windows, macOS, Linux | 256x256
 [quadplay](https://morgan3d.github.io/quadplay/) by Casual Effects | [PyxlScript](https://morgan3d.github.io/quadplay/doc/manual.md.html) | [Free](https://morgan3d.github.io/quadplay/), [LGPL3](https://github.com/morgan3d/quadplay/) | Windows, macOS, Linux | 384x224
+[Raccoon](https://github.com/Lyatus/raccoon) by Lutopia & Linheha | JavaScript | [Free](https://raccoon.lucien.cat/), [Unlicense](https://github.com/Lyatus/raccoon) | Browser | 128x128
 [Riko4](https://github.com/incinirate/riko4) by Bryan | Lua | [Free](https://github.com/incinirate/Riko4/releases), [MIT](https://github.com/incinirate/riko4) | Windows, macOS, Linux | 280x160
 [SCRIPT-8](https://script-8.github.io/) by Gabriel Florit | JavaScript | [Free](https://script-8.github.io/), [MIT](https://github.com/script-8/script-8.github.io) | Browser | 128x128
 [SmileBASIC](http://smilebasic.com/en/) by SmileBoom | [BASIC](http://smilebasic.com/en/e-manual/) | [$9.99](http://smilebasic.com/en/buynow/) | 3DS | 400x240, 320x240
