@@ -52,7 +52,6 @@ FC | Language | Price & License | Platform | Display
 [yuki-js](https://github.com/nrkn/yuki-js) by Nik Coughlin | JavaScript subset | Free, [MIT](https://github.com/nrkn/yuki-js) | Browser | Configurable
 [Zany80](https://zany80.github.io) by Noam Preil | [Z80 ASM, C89](https://zany80.github.io/documentation/programming/) | [Free](https://zany80.github.io/downloads.html), [Apache](https://github.com/zany80) | Windows, Linux, [Browser](https://zany80.github.io/native/emscripten/) | Serial I/O
 
-
 * Ordered by: alphabet.
 * Language: Mean built-in language(s) for end users, not the language in which it was created.
 * NYOP: Name Your Own Price.
