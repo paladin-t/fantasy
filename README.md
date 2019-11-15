@@ -20,7 +20,7 @@ FC | Language | Price & License | Platform | Display
 [ECoS](https://mljware.itch.io/ecos) by MLJWare | Lua | [NYOP](https://mljware.itch.io/ecos) | Windows, macOS, Linux | 128x128
 [FAZIC](https://fazic.fazibear.me/) by Michał Kalbarczyk | [BASIC](https://fazic.fazibear.me/help) | [Free](https://fazic.fazibear.me/fazic) | Browser | 320x240
 [G-eon](https://github.com/G-eon/g-eon-wiki/wiki) by Memorix101 | JavaScript | [NYOP](https://memorix101.itch.io/g-eon) | Windows, Linux, Raspberry Pi | 640x480
-[Homegirl](https://github.com/poeticAndroid/homegirl) by poeticAndroid | Lua | [Free](https://github.com/poeticAndroid/homegirl/releases) | Windows, Linux | 32 different screen modes from 80x45 to 640x480
+[Homegirl](https://poeticandroid.itch.io/homegirl) by poeticAndroid | Lua | [Free](https://github.com/poeticAndroid/homegirl), [Pro version](https://poeticandroid.itch.io/homegirl) | Windows, Linux, MacOS | screen modes from 80x45 to 640x480, up to 256 colors from 12-bit palette
 [IBNIZ](http://pelulamu.net/ibniz/) by viznut | [Instructions](http://pelulamu.net/ibniz/ibniz.txt) | [Free](http://pelulamu.net/ibniz/), [zlib](https://github.com/viznut/IBNIZ) | Windows, Linux | 256x256
 [Leikr](https://github.com/Torbuntu/Leikr) by Torbuntu | (official)Groovy, (unofficial)Java, Kotlin | [Free](https://github.com/Torbuntu/Leikr/releases), [Apache](https://github.com/Torbuntu/Leikr) | Linux, Raspberry Pi 3B/3B+, 3A+, ClockworkPi GameShell, Windows | 240x160
 [LIKO-12](https://ramilego4game.itch.io/liko12) by RamiLego4Game | Lua | [NYOP](https://ramilego4game.itch.io/liko12), [MIT](https://github.com/RamiLego4Game/LIKO-12) | Windows, macOS, Linux, Android | 192x128
