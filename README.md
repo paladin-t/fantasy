@@ -12,6 +12,7 @@ FC | Language | Price & License | Platform | Display
 ---- | ---- | ---- | ---- | ----
 [BASIC8](https://paladin-t.github.io/b8/) by Tony Wang | [BASIC](https://paladin-t.github.io/b8/docs/manual) | [$14.99](https://store.steampowered.com/app/767240/) | Windows, macOS, Linux | 160x128
 [Bitsy](https://ledoux.itch.io/bitsy) by Adam Le Doux | Instructions | [Free](http://ledoux.io/bitsy/editor.html), [MIT](https://github.com/le-doux/bitsy) | Browser | 16x16 sprites (8x8 per sprite)
+[BITY-8](https://github.com/bity-8/bity-8) by Bity-8 | Lua | [Free](https://github.com/bity-8/bity-8), [GPL3](https://github.com/bity-8/bity-8) | Linux | 192x144
 [CHROMA-60](https://arkia.itch.io/chroma-60) by Arkia | ASM | [Free](https://arkia.itch.io/chroma-60) | Windows, Linux | 240x135
 [Click4](https://github.com/josefnpat/click4) by Josef Patoprsty | ASM | [Free](https://github.com/josefnpat/click4/releases), [MIT](https://github.com/josefnpat/click4) | Windows, macOS, Linux | 64x64
 [CToy](https://github.com/anael-seghezzi/CToy) by Anaël Seghezzi | C | [Free](http://anael.maratis3d.com/ctoy/bin/), [zlib](https://github.com/anael-seghezzi/CToy) | Windows, macOS, Linux | 128x128
