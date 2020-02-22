@@ -39,7 +39,7 @@ FC | Language | Price & License | Platform | Display | Community
 [Pix64](https://zappedcow.itch.io/pix64) by ZappedCow | PNG | [NYOP](https://zappedcow.itch.io/pix64) | Windows, Linux | 64x64
 [Pixel Vision 8](https://www.pixelvision8.com/) by Pixel Vision 8 | Lua | [Free (Limited tools), $9.99 (All tools), $1/mo (All versions plus extras)](https://www.pixelvision8.com/fantasy-console-club) | Windows, macOS, Linux | 256x240 | [Discord](https://discord.gg/N9MtHrn)
 [Prism-384](https://grapefruitopia.itch.io/prism-384) by Grapefruitopia Industries | JavaScript | [$5](https://grapefruitopia.itch.io/prism-384) | Windows, macOS, Linux, Raspberry Pi | 384x216
-[Puarslitron](https://puarsliburf.itch.io/puarslitron-fantasy-console) by puarsliburf games | ??? | Free | Windows | 72x64 (1bit)
+[Puarslitron](https://puarsliburf.itch.io/puarslitron-fantasy-console) by puarsliburf games | ??? | [Free](https://puarsliburf.itch.io/puarslitron-fantasy-console) | Windows | 72x64 (1bit)
 [PuzzleScript](https://www.puzzlescript.net/), [DungeonScript](http://dungeonscript.farbs.org/) by Stephen Lavelle | [Instructions](https://www.puzzlescript.net/Documentation/documentation.html) | [Free](https://www.puzzlescript.net/), [MIT](https://github.com/increpare/PuzzleScript) | Browser | Configurable, (DungeonScript) Voxel
 [PX8](https://hallucino.itch.io/px8) by hallucino | Lua, Python | [NYOP](https://hallucino.itch.io/px8), [MIT](https://github.com/Gigoteur/PX8) | Windows, macOS, Linux | Configurable
 [Pyxel](https://github.com/kitao/pyxel) by Takashi Kitao | Python | [Free](https://github.com/kitao/pyxel/releases), [MIT](https://github.com/kitao/pyxel) | Windows, macOS, Linux | 256x256
@@ -48,7 +48,7 @@ FC | Language | Price & License | Platform | Display | Community
 [Riko4](https://github.com/incinirate/riko4) by Bryan | Lua | [Free](https://github.com/incinirate/Riko4/releases), [MIT](https://github.com/incinirate/riko4) | Windows, macOS, Linux | 280x160
 [SCRIPT-8](https://script-8.github.io/) by Gabriel Florit | JavaScript | [Free](https://script-8.github.io/), [MIT](https://github.com/script-8/script-8.github.io) | Browser | 128x128
 [SmileBASIC](http://smilebasic.com/en/) by SmileBoom | [BASIC](http://smilebasic.com/en/e-manual/) | [$9.99](http://smilebasic.com/en/buynow/) | 3DS | 320x240, 400x240
-[tako80](https://github.com/pistacchio/tako80) by pistacchio | JavaScript | Free, [MIT](https://github.com/pistacchio/tako80/blob/master/LICENSE) | Browser | 160x144
+[tako80](https://github.com/pistacchio/tako80) by pistacchio | JavaScript | [Free](https://github.com/pistacchio/tako80), [MIT](https://github.com/pistacchio/tako80/blob/master/LICENSE) | Browser | 160x144
 [TIC-80](https://tic.computer) by Vadim Grigoruk | Lua, MoonScript, JavaScript, Fennel, Wren, Squirrel | [Free, $5 (Pro)](https://tic.computer/create), [MIT](https://github.com/nesbox/TIC-80) | Windows, macOS, Linux, Android | 240x136
 [VectorBoy](https://melloland.itch.io/vectorboy) by David Jalbert | Lua | [NYOP](https://melloland.itch.io/vectorboy) | Windows | Vector
 [Voxatron](https://www.lexaloffle.com/voxatron.php) by Lexaloffle | [micro-scripting](https://www.lexaloffle.com/voxatron.php?page=resources) | [$19.99](https://www.lexaloffle.com/voxatron.php) | Windows, macOS, Linux | Voxel
