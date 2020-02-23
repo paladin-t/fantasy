@@ -10,8 +10,9 @@ This is a list of available fantasy consoles/computers. Including softwares whic
 
 FC | Language | Price & License | Platform | Display
 ---- | ---- | ---- | ---- | ----
+[1Bit-Wonder](https://brastin3.itch.io/1bit-wonder) by Brastin | Instructions | [Free](https://brastin3.itch.io/1bit-wonder) | Windows, Linux | 225x125
 [BASIC8](https://paladin-t.github.io/b8/) by Tony Wang | [BASIC](https://paladin-t.github.io/b8/docs/manual) | [$14.99](https://store.steampowered.com/app/767240/) | Windows, macOS, Linux | 160x128
-[Bitsy](https://ledoux.itch.io/bitsy) by Adam Le Doux | Instructions | [Free](http://ledoux.io/bitsy/editor.html), [MIT](https://github.com/le-doux/bitsy) | Browser | 16x16 sprites (8x8 per sprite)
+[Bitsy](https://ledoux.itch.io/bitsy) by Adam Le Doux | Instructions | [Free](http://ledoux.io/bitsy/editor.html), [MIT](https://github.com/le-doux/bitsy) | Browser | 16x16 1bit sprites (8x8 per sprite)
 [CHROMA-60](https://arkia.itch.io/chroma-60) by Arkia | ASM | [Free](https://arkia.itch.io/chroma-60) | Windows, Linux | 240x135
 [Click4](https://github.com/josefnpat/click4) by Josef Patoprsty | ASM | [Free](https://github.com/josefnpat/click4/releases), [MIT](https://github.com/josefnpat/click4) | Windows, macOS, Linux | 64x64
 [CToy](https://github.com/anael-seghezzi/CToy) by Anaël Seghezzi | C | [Free](http://anael.maratis3d.com/ctoy/bin/), [zlib](https://github.com/anael-seghezzi/CToy) | Windows, macOS, Linux | 128x128
@@ -21,7 +22,7 @@ FC | Language | Price & License | Platform | Display
 [Fancade](http://www.fancade.com/) by Martin Magni | [Visual Scripting](http://wiki.fancade.com/) | [F2P](http://www.fancade.com/) | iOS, Android | Voxel
 [FAZIC](https://fazic.fazibear.me/) by Michał Kalbarczyk | [BASIC](https://fazic.fazibear.me/help) | [Free](https://fazic.fazibear.me/fazic) | Browser | 320x240
 [G-eon](https://github.com/G-eon/g-eon-wiki/wiki) by Memorix101 | JavaScript | [NYOP](https://memorix101.itch.io/g-eon) | Windows, Linux, Raspberry Pi | 640x480
-[Homegirl](https://poeticandroid.itch.io/homegirl) by poeticAndroid | Lua | [Free](https://github.com/poeticAndroid/homegirl/releases), [Pro](https://poeticandroid.itch.io/homegirl), [MIT](https://github.com/poeticAndroid/homegirl) | Windows, Linux, MacOS | Screen modes from 80x45 to 640x480, up to 256 colors from 12-bit palette
+[Homegirl](https://poeticandroid.itch.io/homegirl) by poeticAndroid | Lua | [Free](https://github.com/poeticAndroid/homegirl/releases), [Pro](https://poeticandroid.itch.io/homegirl), [MIT](https://github.com/poeticAndroid/homegirl) | Windows, Linux, MacOS | Screen modes from 80x45 to 640x480, up to 256 colors from 12bit palette
 [IBNIZ](http://pelulamu.net/ibniz/) by viznut | [Instructions](http://pelulamu.net/ibniz/ibniz.txt) | [Free](http://pelulamu.net/ibniz/), [zlib](https://github.com/viznut/IBNIZ) | Windows, Linux | 256x256
 [Leikr](https://github.com/Torbuntu/Leikr) by Torbuntu | (Official) Groovy, (unofficial) Java, Kotlin | [Free](https://github.com/Torbuntu/Leikr/releases), [Apache](https://github.com/Torbuntu/Leikr) | Linux, Raspberry Pi 3B/3B+/3A+, ClockworkPi GameShell, Windows | 240x160
 [LIKO-12](https://ramilego4game.itch.io/liko12) by RamiLego4Game | Lua | [NYOP](https://ramilego4game.itch.io/liko12), [MIT](https://github.com/RamiLego4Game/LIKO-12) | Windows, macOS, Linux, Android | 192x128
@@ -31,8 +32,9 @@ FC | Language | Price & License | Platform | Display
 [MakeCode Arcade](https://arcade.makecode.com/) by Microsoft | [Blocks](https://arcade.makecode.com/---docs#doc:reference), JavaScript, TypeScript | [Free](https://arcade.makecode.com/), [MIT](https://github.com/Microsoft/pxt-arcade) | Browser, Raspberry Pi 0, [custom handhelds](https://arcade.makecode.com/hardware) | 160x120
 [nano Jammer](https://morgan3d.github.io/nano/) by Casual Effects | [nano](https://morgan3d.github.io/nano/doc/specification.md.html) | [Free](https://morgan3d.github.io/nano/), [BSD](https://github.com/morgan3d/nano/) | Browser | 64x64
 [NEKO8](https://egordorichev.itch.io/neko8) by Egor Dorichev | Lua, BASIC, ASM, MoonScript | [NYOP](https://egordorichev.itch.io/neko8), [?](https://github.com/egordorichev/neko8) | Windows, macOS, Linux, Android | 192x128
+[Nibble](https://docs.nibble.world/) by Nibble Team | Lua | [Free](https://github.com/nibbleteam/nibble/releases), [GPLv3](https://github.com/nibbleteam/nibble/blob/master/LICENSE.md) | Windows, macOS, Linux | 400x240 24bit/7bit
 [Phosphor](https://mlepage.github.io/phosphor/) by Marc Lepage | Lua | [Free](https://mlepage.github.io/phosphor/), [MIT](https://github.com/mlepage/phosphor) | Browser | 192x128
-[PICO-8](https://www.lexaloffle.com/pico-8.php) by Lexaloffle | Lua | [$14.99](https://www.lexaloffle.com/pico-8.php) | Windows, macOS, Linux, Raspbery Pi | 128x128
+[PICO-8](https://www.lexaloffle.com/pico-8.php) by Lexaloffle | Lua | [$14.99](https://www.lexaloffle.com/pico-8.php) | Windows, macOS, Linux, Raspbery Pi | 128x128 4bit
 [Pix64](https://zappedcow.itch.io/pix64) by ZappedCow | PNG | [NYOP](https://zappedcow.itch.io/pix64) | Windows, Linux | 64x64
 [Pixel Vision 8](https://www.pixelvision8.com/) by Pixel Vision 8 | Lua | [Free (Limited tools), $9.99 (All tools), $1/mo (All versions plus extras)](https://www.pixelvision8.com/fantasy-console-club) | Windows, macOS, Linux | 256x240
 [Prism-384](https://grapefruitopia.itch.io/prism-384) by Grapefruitopia Industries | JavaScript | [$5](https://grapefruitopia.itch.io/prism-384) | Windows, macOS, Linux, Raspberry Pi | 384x216
