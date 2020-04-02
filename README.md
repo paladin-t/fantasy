@@ -19,7 +19,7 @@ FC | Language | Price & License | Platform | Display
 [DRAK-0](https://github.com/drako0812/DRAK-0) by Drew Wibbenmeyer | ChaiScript, LuaJIT (coming soon) | [NYOP](https://github.com/drako0812/DRAK-0/releases), [MIT](https://github.com/drako0812/DRAK-0) | Windows | 320x240
 [DX8](https://betajaen.itch.io/dx8) by Robin Southern | ASM | [Free](https://betajaen.itch.io/dx8), [MIT](https://github.com/betajaen/dx8) | Windows | 320x256
 [ECoS](https://mljware.itch.io/ecos) by MLJWare | Lua | [NYOP](https://mljware.itch.io/ecos) | Windows, macOS, Linux | 128x128
-[ESP LGE](https://corax89.github.io/esp8266Game/index.html) by Igor(corax89) | C like | [Free](https://github.com/corax89/esp8266_game_engine), [GPLv3](https://github.com/corax89/esp8266_game_engine) | Browser | 128x128
+[ESP LGE](https://corax89.github.io/esp8266Game/index.html) by Igor(corax89) | C like | [Free](https://github.com/corax89/esp8266_game_engine), [GPLv3](https://github.com/corax89/esp8266_game_engine) | Browser, [custom handheld](https://hackaday.io/project/164830-espboy-games-iot-stem-for-education-fun)| 128x128
 [Fancade](http://www.fancade.com/) by Martin Magni | [Visual Scripting](http://wiki.fancade.com/) | [F2P](http://www.fancade.com/) | iOS, Android | Voxel
 [FAZIC](https://fazic.fazibear.me/) by Michał Kalbarczyk | [BASIC](https://fazic.fazibear.me/help) | [Free](https://fazic.fazibear.me/fazic) | Browser | 320x240
 [G-eon](https://github.com/G-eon/g-eon-wiki/wiki) by Memorix101 | JavaScript | [NYOP](https://memorix101.itch.io/g-eon) | Windows, Linux, Raspberry Pi | 640x480
