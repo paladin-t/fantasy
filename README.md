@@ -1,11 +1,5 @@
 # FANTASY CONSOLES/COMPUTERS
 
-<p xmlns:dct="http://purl.org/dc/terms/">
-  <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
-</p>
-
 This is a list of available fantasy consoles/computers. Including softwares which simulate virtual hardwares, with limited functionality. And always encourage creating and sharing tiny retro games and programs with built-in languages and tools.
 
 FC | Language | Price & License | Platform | Display
@@ -54,6 +48,14 @@ FC | Language | Price & License | Platform | Display
 [Voxatron](https://www.lexaloffle.com/voxatron.php) by Lexaloffle | [micro-scripting](https://www.lexaloffle.com/voxatron.php?page=resources) | [$19.99](https://www.lexaloffle.com/voxatron.php) | Windows, macOS, Linux | Voxel
 [VVpet](https://github.com/gardrek/VVpet) by Gardrek | Lua | Free, [?](https://github.com/gardrek/VVpet) | Löve | 64x64x2, 128x128x4, Configurable
 [yuki-js](https://github.com/nrkn/yuki-js) by Nik Coughlin | JavaScript (subset) | Free, [MIT](https://github.com/nrkn/yuki-js) ![GitHub stars](https://img.shields.io/github/stars/nrkn/yuki-js) | Browser | Configurable
+
+## License
+
+<p xmlns:dct="http://purl.org/dc/terms/">
+  <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+</p>
 
 ## Contributing
 
