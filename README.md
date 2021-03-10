@@ -5,6 +5,7 @@ This is a list of available fantasy consoles/computers. Including softwares whic
 FC | Language | Price & License | Platform (Editing; Playing) | Display
 ---- | ---- | ---- | ---- | ----
 [1Bit-Wonder](https://brastin3.itch.io/1bit-wonder) by Brastin | Instructions | [Free](https://brastin3.itch.io/1bit-wonder) | Windows, Linux | 225x125 (1.8:1)
+[4BOD](https://puarsliburf.itch.io/4bod-fantaly-console) by Puarsliburf games | ASM | [Free](https://puarsliburf.itch.io/4bod-fantaly-console) | Windows, Browser | 16x16 (1:1)
 [BASIC8](https://paladin-t.github.io/b8/) by Tony Wang | [BASIC](https://paladin-t.github.io/b8/docs/manual) | [$14.99](https://store.steampowered.com/app/767240/) | Windows, macOS, Linux; Browser | 160x128 (1.25:1)
 [Bitsy](https://ledoux.itch.io/bitsy) by Adam Le Doux | Instructions | [Free](http://ledoux.io/bitsy/editor.html), [MIT](https://github.com/le-doux/bitsy) ![GitHub stars](https://img.shields.io/github/stars/le-doux/bitsy) | Browser | 16x16 (1:1) 1bit sprites (8x8 per sprite)
 [CHROMA-60](https://arkia.itch.io/chroma-60) by Arkia | ASM | [Free](https://arkia.itch.io/chroma-60) | Windows, Linux | 240x135 (16:9)
