@@ -51,6 +51,8 @@ FC | Language | Price & License | Platform (Editing; Playing) | Display
 [VVpet](https://github.com/gardrek/VVpet) by Gardrek | Lua | Free, [?](https://github.com/gardrek/VVpet) | Löve | 64x64x2, 128x128x4, Configurable
 [yuki-js](https://github.com/nrkn/yuki-js) by Nik Coughlin | JavaScript (subset) | Free, [MIT](https://github.com/nrkn/yuki-js) ![GitHub stars](https://img.shields.io/github/stars/nrkn/yuki-js) | Browser | Configurable
 
+See other [retired ones](https://github.com/paladin-t/fantasy/wiki/Retired).
+
 ## License
 
 <p xmlns:dct="http://purl.org/dc/terms/">
