@@ -6,6 +6,7 @@ This is a list of available fantasy consoles/computers. Including softwares whic
 
 FC | Language | Price & License | Platform (Editing; Playing) | Display
 ---- | ---- | ---- | ---- | ----
+[atto](https://jamesl.me/atto) by James Livesey | [BASIC](https://github.com/James-Livesey/atto/tree/main/docs) | [Free](https://jamesl.me/atto), [MIT](https://github.com/James-Livesey/atto) ![GitHub stars](https://img.shields.io/github/stars/James-Livesey/atto) | Browser | 640x480 (4:3)
 [BASIC8](https://paladin-t.github.io/b8/) by Tony Wang | [BASIC](https://paladin-t.github.io/b8/docs/manual) | [$14.99](https://store.steampowered.com/app/767240/) | Windows, macOS, Linux; Browser | 160x128 (1.25:1)
 [Bitmelo](https://bitmelo.com/) by David Byers | JavaScript | [Free](https://bitmelo.com/editor/) | Windows, Browser | Configurable
 [Bitsy](https://ledoux.itch.io/bitsy) by Adam Le Doux | Instructions | [Free](http://ledoux.io/bitsy/editor.html), [MIT](https://github.com/le-doux/bitsy) ![GitHub stars](https://img.shields.io/github/stars/le-doux/bitsy) | Browser | 16x16 (1:1) 1bit sprites (8x8 per sprite)
