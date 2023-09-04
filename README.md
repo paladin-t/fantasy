@@ -72,6 +72,8 @@ FC | Language | Price & License | Platform (Editing; Playing) | Display
 [DX8](https://betajaen.itch.io/dx8) by Robin Southern | ASM | [Free](https://betajaen.itch.io/dx8), [MIT](https://github.com/betajaen/dx8) ![GitHub stars](https://img.shields.io/github/stars/betajaen/dx8) | Windows | 320x256 (1.25:1)
 [ECoS](https://mljware.itch.io/ecos) by MLJWare | Lua | [NYOP](https://mljware.itch.io/ecos) | Windows, macOS, Linux | 128x128 (1:1)
 [Marmmodore-1K](http://voidptr.io/blog/2016/02/07/Marmmodore-1K-Copy.html) by Felipe Alfonso | [ASM](http://voidptr.io/blog/2016/02/07/Marmmodore-1K-Copy.html) | [Free](https://js1k.com/2016-elemental/demo/2415) | Browser | 16x16 (1:1)
+[Ps 8-32m](https://pstudio.itch.io/ps-8-32m) by pstudio | [Assembly](https://github.com/pstudio/Ps-8-32m/blob/master/README.md#assembly-reference) | [Free](https://pstudio.itch.io/ps-8-32m), [Unlicense](https://github.com/pstudio/Ps-8-32m) ![GitHub stars](https://img.shields.io/github/stars/pstudio/Ps-8-32m) | Browser | 160x96 (1.67:1)
+[Puarslitron](https://puarsliburf.itch.io/puarslitron-fantasy-console) by Puarsliburf | D-Code | [Free](https://puarsliburf.itch.io/puarslitron-fantasy-console) | Windows | 72x64 (3:2)
 [VectorBoy](https://melloland.itch.io/vectorboy) by David Jalbert | Lua | [NYOP](https://melloland.itch.io/vectorboy) | Windows | Vector
 [VVpet](https://github.com/gardrek/VVpet) by Gardrek | Lua | Free, [?](https://github.com/gardrek/VVpet) | Löve | 64x64x2, 128x128x4, Configurable
 
