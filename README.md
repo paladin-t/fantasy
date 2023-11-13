@@ -59,10 +59,9 @@ FC | Language | Price & License | Platform (Editing; Playing) | Display
 [Vircon32](http://www.vircon32.com) by Carra | [C](http://www.vircon32.com/guides.html), Assembly | Free, [BSD](http://www.vircon32.com) | Windows, macOS, Linux, Raspberry Pi 4 | 640x360 (16:9) 32bit
 [Voxatron](https://www.lexaloffle.com/voxatron.php) by Lexaloffle | [micro-scripting](https://www.lexaloffle.com/voxatron.php?page=resources) | [$19.99](https://www.lexaloffle.com/voxatron.php) | Windows, macOS, Linux | Voxel
 [WASM-4](https://wasm4.org) by Bruno Garcia | Any WebAssembly language: C/C++, Rust, Go, AssemblyScript | [Free](https://wasm4.org), [MIT](https://github.com/aduros/wasm4) ![GitHub stars](https://img.shields.io/github/stars/aduros/wasm4) | Windows, macOS, Linux; Browser | 160x160 (1:1) 2bit
-[YETI-16](https://github.com/yeti0904/yeti-16) by yeti0904 | Instructions | [Free, MIT](https://github.com/yeti0904/yeti-16) ![GitHub stars](https://img.shields.io/github/stars/yeti0904/yeti-16) | Windows, Linux & macOS | Configurable
+[YETI-16](https://github.com/yeti0904/yeti-16) by yeti0904 | Instructions | [Free](https://mesyeti.itch.io/yeti-16), [MIT](https://github.com/yeti0904/yeti-16) ![GitHub stars](https://img.shields.io/github/stars/yeti0904/yeti-16) | Windows, macOS, Linux | Configurable
 [yuki-js](https://github.com/nrkn/yuki-js) by Nik Coughlin | JavaScript (subset) | Free, [MIT](https://github.com/nrkn/yuki-js) ![GitHub stars](https://img.shields.io/github/stars/nrkn/yuki-js) | Browser | Configurable
 [ZZT](https://museumofzzt.com/) by Potomac Computer Systems | [ZZT-OOP](https://apocalyptech.com/games/zzt/manual/langref.html) | [Free](https://museumofzzt.com/zzt/), [MIT](https://github.com/asiekierka/reconstruction-of-zzt) ![GitHub stars](https://img.shields.io/github/stars/asiekierka/reconstruction-of-zzt) | DOS, [ports](https://zeta.asie.pl/) | 80x25 characters
-
 
 ### Jams and Experiments
 
