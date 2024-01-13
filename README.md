@@ -6,6 +6,7 @@ This is a list of available fantasy consoles/computers. Including softwares whic
 
 FC | Language | Price & License | Platform (Editing; Playing) | Display
 ---- | ---- | ---- | ---- | ----
+[3BC](https://github.com/RodrigoDornelles/3bc-lang) by Rodrigo Dornelles | [3bc-lang](https://3bc-lang.org/) | [Free](https://github.com/RodrigoDornelles/3bc-lang/releases), [AGPL 3.0](https://github.com/RodrigoDornelles/3bc-lang/blob/master/LICENSE.txt) ![GitHub stars](https://img.shields.io/github/stars/rodrigodornelles/3bc-lang) | Windows, macOS, Linux, DOS, BSD, Docker, Arduino  NES, Commodore64, Apple2, Atari5200 | platform dependent (text only) 
 [atto](https://jamesl.me/atto) by James Livesey | [BASIC](https://github.com/James-Livesey/atto/tree/main/docs) | [Free](https://jamesl.me/atto), [MIT](https://github.com/James-Livesey/atto) ![GitHub stars](https://img.shields.io/github/stars/James-Livesey/atto) | Browser | 640x480 (4:3)
 [BASIC8](https://paladin-t.github.io/b8/) by Tony Wang | [BASIC](https://paladin-t.github.io/b8/docs/manual) | [$14.99](https://store.steampowered.com/app/767240/) | Windows, macOS, Linux; Browser | 160x128 (1.25:1)
 [Bitmelo](https://bitmelo.com/) by David Byers | JavaScript | [Free](https://bitmelo.com/editor/) | Windows, Browser | Configurable
