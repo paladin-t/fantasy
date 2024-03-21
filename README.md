@@ -45,6 +45,7 @@ FC | Language | Price & License | Platform (Editing; Playing) | Display
 [PEEKPOKE](https://github.com/abagames/peekpoke/) by ABA Games | JavaScript | [Free](https://github.com/abagames/peekpoke/), [MIT](https://github.com/abagames/peekpoke) ![GitHub stars](https://img.shields.io/github/stars/abagames/peekpoke) | Browser | 32x30 (16:15)
 [Phosphor](https://mlepage.github.io/phosphor/) by Marc Lepage | Lua | [Free](https://mlepage.github.io/phosphor/), [MIT](https://github.com/mlepage/phosphor) ![GitHub stars](https://img.shields.io/github/stars/mlepage/phosphor) | Browser | 192x128 (3:2)
 [PICO-8](https://www.lexaloffle.com/pico-8.php) by Lexaloffle | Lua | [$14.99](https://www.lexaloffle.com/pico-8.php) | Windows, macOS, Linux, Raspbery Pi; Browser | 128x128 (1:1) 4bit
+[Picotron](https://www.lexaloffle.com/picotron.php) by Lexaloffle | Lua | [$19.99](https://www.lexaloffle.com/picotron.php) | Windows, macOS, Linux, Raspbery Pi; Browser | 480x270 (1:1) 6bit
 [Pix64](https://zappedcow.itch.io/pix64) by ZappedCow | PNG | [NYOP](https://zappedcow.itch.io/pix64) | Windows, Linux | 64x64 (1:1)
 [Pixel Vision 8](https://pixelvision8.github.io/Website/) by Pixel Vision 8 | Lua | [Free](https://pixelvision8.github.io/Website/), [MS-PL](https://github.com/PixelVision8/PixelVision8) ![GitHub stars](https://img.shields.io/github/stars/PixelVision8/PixelVision8) | Windows, macOS, Linux | 256x240 (1.07:1)
 [PQ93](https://pennie.itch.io/pq93) by pennie | MoonScript | [Free](https://pennie.itch.io/pq93) | Windows | 160x144 (1.11:1) 4bit
