@@ -72,7 +72,6 @@ FC | Language | Price & License | Platform (Editing; Playing) | Display
 
 FC | Language | Price & License | Platform (Editing; Playing) | Display
 ---- | ---- | ---- | ---- | ----
-[1Bit-Wonder](https://brastin3.itch.io/1bit-wonder) by Brastin | Instructions | [Free](https://brastin3.itch.io/1bit-wonder) | Windows, Linux | 225x125 (1.8:1)
 [4BOD](https://puarsliburf.itch.io/4bod-fantaly-console) by Puarsliburf games | ASM | [Free](https://puarsliburf.itch.io/4bod-fantaly-console) | Windows, Browser | 16x16 (1:1)
 [CHROMA-60](https://arkia.itch.io/chroma-60) by Arkia | ASM | [Free](https://arkia.itch.io/chroma-60) | Windows, Linux | 240x135 (16:9)
 [DX8](https://betajaen.itch.io/dx8) by Robin Southern | ASM | [Free](https://betajaen.itch.io/dx8), [MIT](https://github.com/betajaen/dx8) ![GitHub stars](https://img.shields.io/github/stars/betajaen/dx8) | Windows | 320x256 (1.25:1)
