@@ -12,6 +12,7 @@ FC | Language | Price & License | Platform (Editing; Playing) | Display
 [Bitmelo](https://bitmelo.com/) by David Byers | JavaScript | [Free](https://bitmelo.com/editor/) | Windows, Browser | Configurable
 [Bitsy](https://ledoux.itch.io/bitsy) by Adam Le Doux | Instructions | [Free](http://ledoux.io/bitsy/editor.html), [MIT](https://github.com/le-doux/bitsy) ![GitHub stars](https://img.shields.io/github/stars/le-doux/bitsy) | Browser | 16x16 (1:1) 1bit sprites (8x8 per sprite)
 [BrainFuckConsole74](https://brainfuckconsole74.ch/) by AndOr | [Brainfuck](https://brainfuckconsole74.ch/info.html) | [Free](https://brainfuckconsole74.ch/) | Browser | 16x16 (1:1) 4bit
+[Castle](https://castle.xyz/) by Monterey's Coast | [Instructions](https://wiki.castle.xyz/) | [F2P](https://castle.xyz/) | iOS, Android | Unknown
 [cel7](https://rxi.itch.io/cel7) by rxi | [fe](https://github.com/rxi/fe) (lisp-like) | [NYOP](https://rxi.itch.io/cel7) | Windows, Linux | Configurable
 [Click4](https://github.com/josefnpat/click4) by Josef Patoprsty | ASM | [Free](https://github.com/josefnpat/click4/releases), [MIT](https://github.com/josefnpat/click4) ![GitHub stars](https://img.shields.io/github/stars/josefnpat/click4) | Windows, macOS, Linux | 64x64 (1:1)
 [Continuum 93](https://discord.gg/6AYkhnzxD9) by EnthusiastGuy| ASM| [Free](https://enthusiastguy.itch.io/continuum93) for non-commercial use | Windows, macOS x86_64, Linux aarch64 and x86_64, Raspberry PI 64 bit, Steam Deck | 480x270 (16:9) 8bit palettes, 8 layers
