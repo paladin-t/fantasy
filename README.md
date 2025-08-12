@@ -72,6 +72,7 @@ FC | Language | Price & License | Platform (Editing; Playing) | Display
 [YETI-16](https://github.com/yeti0904/yeti-16) by yeti0904 | Instructions | [Free](https://mesyeti.itch.io/yeti-16), [MIT](https://github.com/yeti0904/yeti-16) ![GitHub stars](https://img.shields.io/github/stars/yeti0904/yeti-16) | Windows, macOS, Linux | Configurable
 [yuki-js](https://github.com/nrkn/yuki-js) by Nik Coughlin | JavaScript (subset) | Free, [MIT](https://github.com/nrkn/yuki-js) ![GitHub stars](https://img.shields.io/github/stars/nrkn/yuki-js) | Browser | Configurable
 [ZZT](https://museumofzzt.com/) by Potomac Computer Systems | [ZZT-OOP](https://apocalyptech.com/games/zzt/manual/langref.html) | [Free](https://museumofzzt.com/zzt/), [MIT](https://github.com/asiekierka/reconstruction-of-zzt) ![GitHub stars](https://img.shields.io/github/stars/asiekierka/reconstruction-of-zzt) | DOS, [ports](https://zeta.asie.pl/) | 80x25 characters
+[Tea 1690](https://github.com/teaaaaaaaa/Tea1690) by Tea | assembly language | Free ![GitHub stars](https://img.shields.io/github/stars/teaaaaaaaa/Tea1690) | Windows | 256 x 240 pixels
 
 ### Jams and Experiments
 
@@ -116,3 +117,4 @@ People find it difficult to search for this kind of software to play with, so th
 5. Minecraft is not
 
 As things keep evolving, feel free to update this list, or correct any mistakes. Pull requests are welcome.
+
