@@ -15,7 +15,7 @@ FC | Language | Price & License | Platform (Editing; Playing) | Display
 [Castle](https://castle.xyz/) by Monterey's Coast | [Instructions](https://wiki.castle.xyz/) | [F2P](https://castle.xyz/) | iOS, Android | Unknown
 [cel7](https://rxi.itch.io/cel7) by rxi | [fe](https://github.com/rxi/fe) (lisp-like) | [NYOP](https://rxi.itch.io/cel7) | Windows, Linux | Configurable
 [Click4](https://github.com/josefnpat/click4) by Josef Patoprsty | ASM | [Free](https://github.com/josefnpat/click4/releases), [MIT](https://github.com/josefnpat/click4) ![GitHub stars](https://img.shields.io/github/stars/josefnpat/click4) | Windows, macOS, Linux | 64x64 (1:1)
-[Continuum 93](https://discord.gg/6AYkhnzxD9) by EnthusiastGuy| ASM| [Free](https://enthusiastguy.itch.io/continuum93) for non-commercial use | Windows, macOS x86_64, Linux aarch64 and x86_64, Raspberry PI 64 bit, Steam Deck | 480x270 (16:9) 8bit palettes, 8 layers
+[Continuum 93](https://discord.gg/6AYkhnzxD9) by EnthusiastGuy| ASM| [Free](https://enthusiastguy.itch.io/continuum93), [Open source](https://github.com/EnthusiastGuy/Continuum-93) ![GitHub stars](https://img.shields.io/github/stars/EnthusiastGuy/Continuum-93) | Windows, macOS x86_64, Linux aarch64 and x86_64, Raspberry PI 64 bit, Steam Deck | 480x270 (16:9) 8bit palettes, 8 layers
 [CToy](https://github.com/anael-seghezzi/CToy) by Anaël Seghezzi | C | [Free](http://anael.maratis3d.com/ctoy/bin/), [zlib](https://github.com/anael-seghezzi/CToy) ![GitHub stars](https://img.shields.io/github/stars/anael-seghezzi/CToy) | Windows, macOS, Linux | 128x128 (1:1)
 [DRAK-0](https://github.com/drako0812/DRAK-0) by Drew Wibbenmeyer | ChaiScript, LuaJIT (coming soon) | [NYOP](https://github.com/drako0812/DRAK-0/releases), [MIT](https://github.com/drako0812/DRAK-0) ![GitHub stars](https://img.shields.io/github/stars/drako0812/DRAK-0) | Windows | 320x240 (4:3)
 [DreamBox](https://dreambox3d.dev/) by Hazel Stagner | [Rust](https://dreambox3d.dev/getting_started) | [NYOP](https://crit-chance-studios.itch.io/dreambox) | Windows, Linux | 640x480 (4:3)
@@ -117,3 +117,4 @@ People find it difficult to search for this kind of software to play with, so th
 5. Minecraft is not
 
 As things keep evolving, feel free to update this list, or correct any mistakes. Pull requests are welcome.
+
