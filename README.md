@@ -22,7 +22,7 @@ FC | Language | Price & License | Platform (Editing; Playing) | Display
 [ESP LGE](https://corax89.github.io/esp8266Game/index.html) by Igor(corax89) | C like | [Free](https://github.com/corax89/esp8266_game_engine), [GPLv3](https://github.com/corax89/esp8266_game_engine) ![GitHub stars](https://img.shields.io/github/stars/corax89/esp8266_game_engine) | Browser, [custom handheld](https://hackaday.io/project/164830-espboy-games-iot-stem-for-education-fun)| 128x128 (1:1)
 [Fancade](http://www.fancade.com/) by Martin Magni | [Visual Scripting](http://wiki.fancade.com/) | [F2P](http://www.fancade.com/) | iOS, Android, [Browser](https://play.fancade.com) | Voxel
 [FAZIC](https://fazic.fazibear.me/) by Michał Kalbarczyk | [BASIC](https://fazic.fazibear.me/help) | [Free](https://fazic.fazibear.me/fazic) | Browser | 320x240 (4:3)
-[GameBuilder BASIC (GB BASIC)](https://paladin-t.github.io/kits/gbb/) by Tony Wang | [BASIC](https://paladin-t.github.io/kits/gbb/manual.html) | [Free](https://store.steampowered.com/app/2308700/) [![](https://img.shields.io/badge/Pro-$20-green)](https://store.steampowered.com/app/3924050/), [MIT](https://github.com/paladin-t/gbb) ![GitHub stars](https://img.shields.io/github/stars/paladin-t/gbb) | Windows, Linux, MacOS, [Browser](https://tonywang.itch.io/gbbasic) | 160x144 (10:9)
+[GameBuilder BASIC (GB BASIC)](https://paladin-t.github.io/kits/gbb/) by Tony Wang | [BASIC](https://paladin-t.github.io/kits/gbb/manual.html) | [Free](https://store.steampowered.com/app/2308700/) [![](https://img.shields.io/badge/Pro-$19.99-green)](https://store.steampowered.com/app/3924050/), [MIT](https://github.com/paladin-t/gbb) ![GitHub stars](https://img.shields.io/github/stars/paladin-t/gbb) | Windows, Linux, MacOS, [Browser](https://tonywang.itch.io/gbbasic) | 160x144 (10:9)
 [Game Builder Garage](https://www.nintendo.com/store/products/game-builder-garage-switch/) by Nintendo | Visual | [$29.99](https://www.nintendo.com/store/products/game-builder-garage-switch/) | NS | 3D
 [Gamercade](https://gamercade.io/) by Robbie Davenport | [Any WebAssembly language: C/C++, Rust, Go, etc.](https://gamercade.io/what-is-gamercade/) | [Free](https://gamercade.io/), [Apache-2.0, MIT](https://github.com/gamercade-io/gamercade_console) ![GitHub stars](https://img.shields.io/github/stars/gamercade-io/gamercade_console) | Windows, macOS, Linux | Various (16:9)
 [Game Script](https://procedural.itch.io/gamescript) by Constantine Tarasenkov | Game Script | [Free](https://procedural.itch.io/gamescript) | Windows, Linux, Android, Xbox One | 3D
@@ -104,9 +104,10 @@ FC | Language | Price & License | Platform (Editing; Playing) | Display
 
 ## Contributing
 
-* Ordered by: alphabet.
-* Language: Mean built-in language(s) for end users, not the language in which it was created.
-* NYOP: Name Your Own Price.
+* Ordered by: alphabet
+* Language: Mean built-in language(s) for end users, not the language in which it was created
+* "NYOP": Name Your Own Price
+* "Pro $": Free/Open Source softwares with paid options for addition features
 
 People find it difficult to search for this kind of software to play with, so the definition is relaxed for choosing available consoles. However, it's fairly simple to tell if one is **not** a fantasy console/computer:
 
